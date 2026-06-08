@@ -38,11 +38,25 @@ searchBox.addEventListener("input", () => {
     const results = searchArticles(searchBox.value);
 
     document.getElementById("results").innerHTML =
-
+    
         results.map(article =>
-
-            `<p>${article.title}</p>`
-
+    
+            `
+            <div class="card">
+    
+                <h3>
+                    <a href="${article.url}">
+                        ${article.title}
+                    </a>
+                </h3>
+    
+                <p>
+                    ${article.summary}
+                </p>
+    
+            </div>
+            `
+    
         ).join("");
 
 });
