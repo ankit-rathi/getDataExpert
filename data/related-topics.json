@@ -20,6 +20,9 @@
     "tokens",
     "ai-agents"
   ],
+  "ai-and-jobs": [
+    "ai-agents"
+  ],
   "chatgpt": [
     "generative-ai",
     "rag",
@@ -31,8 +34,8 @@
     "rag",
     "tokens",
     "ai-hallucinations",
-    "chatgpt",
-    "prompt-engineering"
+    "ai-and-jobs",
+    "chatgpt"
   ],
   "prompt-engineering": [
     "rag",
