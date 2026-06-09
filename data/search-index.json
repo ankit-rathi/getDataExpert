@@ -26,14 +26,15 @@
     "url": "/sketch-intelligence/topics/tokens/"
   },
   {
-    "title": "AI Agents",
+    "title": "What are AI Agents?",
     "category": "GenAI",
     "tags": [
       "llm",
       "tools",
-      "planning"
+      "planning",
+      "automation"
     ],
-    "summary": "How AI agents work end-to-end.",
+    "summary": "Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.",
     "date": "2026-06-08",
     "url": "/sketch-intelligence/topics/ai-agents/"
   },
