@@ -53,7 +53,7 @@ function renderResults(results) {
         document.getElementById("resultCount");
 
     resultCount.innerHTML =
-        `${results.length} article${results.length !== 1 ? "s" : ""}`;
+        `${results.length} sketch${results.length !== 1 ? "es" : ""}`;
 
     if (results.length === 0) {
 
