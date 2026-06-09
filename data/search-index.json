@@ -26,6 +26,20 @@
     "url": "/sketch-intelligence/topics/tokens/"
   },
   {
+    "title": "What Is The Intelligence Loop?",
+    "category": "Foundations",
+    "tags": [
+      "intelligence-loop",
+      "feedback-loops",
+      "learning",
+      "decision-making",
+      "systems-thinking"
+    ],
+    "summary": "Understanding how intelligence emerges through a continuous cycle of observation, understanding, decision-making, action, and learning.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/intelligence-loop/"
+  },
+  {
     "title": "Why Does AI Hallucinate?",
     "category": "GenAI",
     "tags": [
