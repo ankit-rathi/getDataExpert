@@ -1,11 +1,14 @@
 {
-"ai-agents":[
-"rag",
-"memory",
-"tools"
-],
-"rag":[
-"vector-database",
-"embeddings"
-]
+  "tokens": [
+    "ai-agents",
+    "llm"
+  ],
+  "ai-agents": [
+    "tokens",
+    "llm"
+  ],
+  "llm": [
+    "tokens",
+    "ai-agents"
+  ]
 }
