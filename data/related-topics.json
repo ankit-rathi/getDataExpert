@@ -1,14 +1,22 @@
 {
   "tokens": [
     "ai-agents",
+    "prompt-engineering",
     "llm"
   ],
   "ai-agents": [
     "tokens",
+    "prompt-engineering",
+    "llm"
+  ],
+  "prompt-engineering": [
+    "tokens",
+    "ai-agents",
     "llm"
   ],
   "llm": [
     "tokens",
-    "ai-agents"
+    "ai-agents",
+    "prompt-engineering"
   ]
 }

@@ -24,6 +24,18 @@
     "url": "/sketch-intelligence/topics/ai-agents/"
   },
   {
+    "title": "Prompt Engineering",
+    "category": "GenAI",
+    "tags": [
+      "llm",
+      "prompts",
+      "instructions"
+    ],
+    "summary": "Understanding how prompt engineering helps users communicate effectively with AI to obtain better outputs.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/prompt-engineering/"
+  },
+  {
     "title": "Large Language Models",
     "category": "GenAI",
     "tags": [
