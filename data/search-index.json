@@ -193,6 +193,20 @@
     "url": "/sketch-intelligence/topics/intelligence/"
   },
   {
+    "title": "What is Artificial Intelligence?",
+    "category": "GenAI",
+    "tags": [
+      "artificial-intelligence",
+      "ai",
+      "machine-learning",
+      "intelligence",
+      "decision-making"
+    ],
+    "summary": "Understanding how artificial intelligence enables machines to learn patterns, make predictions, and perform tasks that traditionally required human intelligence.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/artificial-intelligence/"
+  },
+  {
     "title": "What Is Data?",
     "category": "Data Fundamentals",
     "tags": [
