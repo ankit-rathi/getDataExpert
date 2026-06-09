@@ -7,8 +7,6 @@ summary: Understanding how large language models transform language into intelli
 date: 2026-06-08
 ---
 
-# Large Language Models
-
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/7558178d-b5f8-4f90-8d77-24994700c1c2"
