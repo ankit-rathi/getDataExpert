@@ -119,6 +119,23 @@
     "url": "/sketch-intelligence/topics/llm/"
   },
   {
+    "title": "What Is Intelligence?",
+    "category": "Foundations",
+    "tags": [
+      "intelligence",
+      "decision-making",
+      "uncertainty",
+      "information",
+      "learning",
+      "patterns",
+      "observation",
+      "systems-thinking"
+    ],
+    "summary": "Understanding how intelligence reduces uncertainty by turning observations into patterns, patterns into decisions, and decisions into better outcomes.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/intelligence/"
+  },
+  {
     "title": "What Is Data?",
     "category": "Data Fundamentals",
     "tags": [
@@ -145,13 +162,5 @@
     "summary": "Understanding how vector databases store meaning instead of keywords, enabling AI systems to search by semantic similarity.",
     "date": "2026-06-08",
     "url": "/sketch-intelligence/topics/vector-database/"
-  },
-  {
-    "title": "",
-    "category": "",
-    "tags": [],
-    "summary": "",
-    "date": "",
-    "url": "/sketch-intelligence/topics/intelligence/"
   }
 ]
