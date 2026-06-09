@@ -1,5 +1,19 @@
 [
   {
+    "title": "What is RAG?",
+    "category": "GenAI",
+    "tags": [
+      "rag",
+      "llm",
+      "retrieval",
+      "knowledge-base",
+      "ai"
+    ],
+    "summary": "Understanding how Retrieval-Augmented Generation (RAG) helps AI retrieve relevant information before generating answers.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/rag/"
+  },
+  {
     "title": "Tokens",
     "category": "GenAI",
     "tags": [
@@ -36,6 +50,20 @@
     "url": "/sketch-intelligence/topics/prompt-engineering/"
   },
   {
+    "title": "What is Generative AI?",
+    "category": "GenAI",
+    "tags": [
+      "generative-ai",
+      "llm",
+      "ai",
+      "machine-learning",
+      "content-generation"
+    ],
+    "summary": "Understanding how Generative AI learns patterns from data and creates new content such as text, images, code, audio, and conversations.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/generative-ai/"
+  },
+  {
     "title": "Large Language Models",
     "category": "GenAI",
     "tags": [
@@ -46,5 +74,19 @@
     "summary": "Understanding how large language models transform language into intelligence.",
     "date": "2026-06-08",
     "url": "/sketch-intelligence/topics/llm/"
+  },
+  {
+    "title": "What Are Vector Databases?",
+    "category": "GenAI",
+    "tags": [
+      "vector-database",
+      "embeddings",
+      "semantic-search",
+      "rag",
+      "ai"
+    ],
+    "summary": "Understanding how vector databases store meaning instead of keywords, enabling AI systems to search by semantic similarity.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/vector-database/"
   }
 ]

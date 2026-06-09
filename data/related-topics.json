@@ -1,22 +1,49 @@
 {
-  "tokens": [
-    "ai-agents",
-    "prompt-engineering",
-    "llm"
-  ],
-  "ai-agents": [
-    "tokens",
-    "prompt-engineering",
-    "llm"
-  ],
-  "prompt-engineering": [
-    "tokens",
-    "ai-agents",
-    "llm"
-  ],
-  "llm": [
+  "rag": [
+    "generative-ai",
+    "vector-database",
     "tokens",
     "ai-agents",
     "prompt-engineering"
+  ],
+  "tokens": [
+    "rag",
+    "ai-agents",
+    "prompt-engineering",
+    "generative-ai",
+    "llm"
+  ],
+  "ai-agents": [
+    "rag",
+    "tokens",
+    "prompt-engineering",
+    "generative-ai",
+    "llm"
+  ],
+  "prompt-engineering": [
+    "rag",
+    "tokens",
+    "ai-agents",
+    "generative-ai",
+    "llm"
+  ],
+  "generative-ai": [
+    "rag",
+    "tokens",
+    "ai-agents",
+    "prompt-engineering",
+    "llm"
+  ],
+  "llm": [
+    "rag",
+    "tokens",
+    "ai-agents",
+    "prompt-engineering",
+    "generative-ai"
+  ],
+  "vector-database": [
+    "rag",
+    "tokens",
+    "generative-ai"
   ]
 }
