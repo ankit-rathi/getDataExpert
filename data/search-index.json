@@ -136,6 +136,20 @@
     "url": "/sketch-intelligence/topics/prompt-engineering/"
   },
   {
+    "title": "What are Foundation Models?",
+    "category": "GenAI",
+    "tags": [
+      "foundation-models",
+      "pretraining",
+      "transformers",
+      "llm",
+      "generative-ai"
+    ],
+    "summary": "Understanding how foundation models learn general capabilities from massive amounts of data and become the base layer for modern AI applications.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/foundation-models/"
+  },
+  {
     "title": "What is Generative AI?",
     "category": "GenAI",
     "tags": [
