@@ -17,7 +17,7 @@ for md_file in TOPICS_DIR.glob("*.md"):
         "tags": post.get("tags", []),
         "summary": post.get("summary", ""),
         "date": post.get("date", ""),
-        "url": f"/topics/{md_file.stem}.html"
+        "url": f"topics/{md_file.stem}/"
     })
 
 # Sort latest first
