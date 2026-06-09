@@ -220,5 +220,19 @@
     "summary": "Understanding how vector databases store meaning instead of keywords, enabling AI systems to search by semantic similarity.",
     "date": "2026-06-08",
     "url": "/sketch-intelligence/topics/vector-database/"
+  },
+  {
+    "title": "What are Neural Networks?",
+    "category": "GenAI",
+    "tags": [
+      "neural-networks",
+      "deep-learning",
+      "machine-learning",
+      "ai",
+      "pattern-learning"
+    ],
+    "summary": "Understanding how neural networks learn patterns from data through interconnected artificial neurons, forming the foundation of modern AI systems.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/neural-networks/"
   }
 ]
