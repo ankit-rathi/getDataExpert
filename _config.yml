@@ -1,0 +1,16 @@
+title: Sketch Intelligence
+
+collections:
+topics:
+output: true
+permalink: /:collection/:name/
+
+## defaults:
+
+```
+scope:
+  path: ""
+  type: topics
+values:
+  layout: topic
+```
