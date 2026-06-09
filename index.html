@@ -2,79 +2,23 @@
 <html>
 
 <head>
-
     <title>Sketch Intelligence</title>
-
-    <meta charset="UTF-8">
-
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1">
 
     <link rel="stylesheet"
           href="assets/css/style.css">
-
 </head>
 
 <body>
 
-<div class="hero">
+<h1>Sketch Intelligence</h1>
 
-    <h1>🎨 Sketch Intelligence</h1>
-
-    <p class="subtitle">
-        Visual Learning for Data & AI
-    </p>
-
-    <p class="tagline">
-        Search concepts, buzzwords, jargon and sketch notes.
-    </p>
-
-    <input
-        id="search-box"
-        type="text"
-        placeholder="🔍 Search Data & AI concepts..."
-        onkeyup="showResults()"
-    >
-
-</div>
+<input
+    id="searchBox"
+    placeholder="Search Data & AI concepts...">
 
 <div id="results"></div>
 
-<div class="popular">
-
-    <h2>Popular Topics</h2>
-
-    <div class="chips">
-
-        <span onclick="searchChip('llm')">LLM</span>
-
-        <span onclick="searchChip('tokens')">Tokens</span>
-
-        <span onclick="searchChip('rag')">RAG</span>
-
-        <span onclick="searchChip('embeddings')">Embeddings</span>
-
-        <span onclick="searchChip('agents')">Agents</span>
-
-        <span onclick="searchChip('prompt')">Prompt Engineering</span>
-
-    </div>
-
-</div>
-
 <script src="assets/js/search.js"></script>
-
-<script>
-
-function searchChip(text){
-
-    document.getElementById("search-box").value = text;
-
-    showResults();
-
-}
-
-</script>
 
 </body>
 
