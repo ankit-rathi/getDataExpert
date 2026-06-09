@@ -1,5 +1,5 @@
 ---
-title: Tokens
+title: What are Tokens?
 category: GenAI
 tags: [llm, tokenization, embeddings]
 summary: Understanding how tokens act as the basic building blocks processed by large language models.
