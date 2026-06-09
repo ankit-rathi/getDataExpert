@@ -68,6 +68,21 @@
     "url": "/sketch-intelligence/topics/ai-and-jobs/"
   },
   {
+    "title": "What is Deep Learning?",
+    "category": "GenAI",
+    "tags": [
+      "deep-learning",
+      "neural-networks",
+      "machine-learning",
+      "ai",
+      "pattern-learning",
+      "foundation-models"
+    ],
+    "summary": "Understanding how deep learning enables machines to automatically learn complex patterns from data using multiple layers of neural networks.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/deep-learning/"
+  },
+  {
     "title": "How Does ChatGPT Work?",
     "category": "GenAI",
     "tags": [
