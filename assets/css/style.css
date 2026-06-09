@@ -1,4 +1,6 @@
-/* ---------- Reset ---------- */
+/* ==================================================
+   RESET
+================================================== */
 
 * {
     margin: 0;
@@ -6,7 +8,9 @@
     box-sizing: border-box;
 }
 
-/* ---------- Body ---------- */
+/* ==================================================
+   BODY
+================================================== */
 
 body {
 
@@ -21,17 +25,19 @@ body {
         BlinkMacSystemFont,
         sans-serif;
 
-    line-height: 1.7;
+    line-height: 1.8;
 
     max-width: 1100px;
 
     margin: auto;
 
-    padding: 20px;
+    padding: 24px;
 
 }
 
-/* ---------- Hero ---------- */
+/* ==================================================
+   HERO
+================================================== */
 
 .hero {
 
@@ -44,34 +50,36 @@ body {
 .hero h1 {
 
     font-size: clamp(
-        2.2rem,
+        2.4rem,
         6vw,
-        4rem
+        4.5rem
     );
 
-    margin-bottom: 12px;
-
     font-weight: 800;
+
+    margin-bottom: 16px;
+
+    color: #0f172a;
 
 }
 
 .hero p {
 
-    max-width: 700px;
+    max-width: 750px;
 
     margin: auto;
 
-    color: #64748b;
-
     font-size: 1.1rem;
+
+    color: #64748b;
 
 }
 
-/* ---------- Search ---------- */
+/* ==================================================
+   SEARCH
+================================================== */
 
 .search-container {
-
-    margin-bottom: 30px;
 
     position: sticky;
 
@@ -79,9 +87,14 @@ body {
 
     z-index: 100;
 
-    background: #f8fafc;
+    background:
+        rgba(248, 250, 252, 0.92);
 
-    padding-bottom: 15px;
+    backdrop-filter: blur(12px);
+
+    padding-bottom: 16px;
+
+    margin-bottom: 30px;
 
 }
 
@@ -89,22 +102,22 @@ body {
 
     width: 100%;
 
-    padding: 18px 24px;
+    padding: 18px 22px;
 
     border-radius: 16px;
 
     border: 1px solid #dbeafe;
 
+    background: white;
+
     font-size: 1rem;
 
     outline: none;
 
-    background: white;
-
     transition: all 0.25s ease;
 
     box-shadow:
-        0 2px 10px rgba(0,0,0,0.05);
+        0 2px 12px rgba(0,0,0,0.05);
 
 }
 
@@ -117,7 +130,9 @@ body {
 
 }
 
-/* ---------- Result Count ---------- */
+/* ==================================================
+   RESULT COUNT
+================================================== */
 
 #resultCount {
 
@@ -129,7 +144,9 @@ body {
 
 }
 
-/* ---------- Grid ---------- */
+/* ==================================================
+   GRID
+================================================== */
 
 #results {
 
@@ -138,43 +155,42 @@ body {
     grid-template-columns:
         repeat(
             auto-fit,
-            minmax(300px, 1fr)
+            minmax(320px, 1fr)
         );
 
     gap: 24px;
 
-    margin-top: 20px;
-
 }
 
-/* ---------- Card ---------- */
+/* ==================================================
+   CARD
+================================================== */
 
 .card {
 
     background: white;
 
-    border-radius: 18px;
+    border: 1px solid #e2e8f0;
+
+    border-radius: 20px;
 
     padding: 24px;
-
-    border: 1px solid #e2e8f0;
 
     transition:
         transform 0.25s ease,
         box-shadow 0.25s ease;
 
     box-shadow:
-        0 2px 10px rgba(0,0,0,0.04);
+        0 4px 14px rgba(0,0,0,0.04);
 
 }
 
 .card:hover {
 
-    transform:
-        translateY(-6px);
+    transform: translateY(-6px);
 
     box-shadow:
-        0 12px 30px rgba(0,0,0,0.08);
+        0 18px 40px rgba(0,0,0,0.08);
 
 }
 
@@ -182,13 +198,15 @@ body {
 
     margin-bottom: 10px;
 
+    line-height: 1.3;
+
 }
 
 .card a {
 
-    text-decoration: none;
-
     color: #0f172a;
+
+    text-decoration: none;
 
 }
 
@@ -206,7 +224,9 @@ body {
 
 }
 
-/* ---------- Tags ---------- */
+/* ==================================================
+   TAGS
+================================================== */
 
 .tags {
 
@@ -224,7 +244,7 @@ body {
 
     color: #2563eb;
 
-    padding: 6px 10px;
+    padding: 6px 12px;
 
     border-radius: 999px;
 
@@ -234,21 +254,23 @@ body {
 
 }
 
-/* ---------- Empty State ---------- */
+/* ==================================================
+   EMPTY STATE
+================================================== */
 
 .empty-state {
 
     grid-column: 1 / -1;
-
-    text-align: center;
-
-    padding: 80px 20px;
 
     background: white;
 
     border-radius: 20px;
 
     border: 1px dashed #cbd5e1;
+
+    text-align: center;
+
+    padding: 80px 20px;
 
 }
 
@@ -264,7 +286,163 @@ body {
 
 }
 
-/* ---------- Images ---------- */
+/* ==================================================
+   ARTICLE PAGES
+================================================== */
+
+main,
+article {
+
+    max-width: 900px;
+
+    margin: auto;
+
+}
+
+h1 {
+
+    margin-top: 20px;
+
+    margin-bottom: 20px;
+
+    line-height: 1.2;
+
+}
+
+h2 {
+
+    margin-top: 40px;
+
+    margin-bottom: 16px;
+
+    color: #0f172a;
+
+}
+
+h3 {
+
+    margin-top: 24px;
+
+    margin-bottom: 10px;
+
+}
+
+p {
+
+    margin-bottom: 16px;
+
+}
+
+ul,
+ol {
+
+    margin-left: 24px;
+
+    margin-bottom: 20px;
+
+}
+
+li {
+
+    margin-bottom: 6px;
+
+}
+
+hr {
+
+    margin: 40px 0;
+
+    border: none;
+
+    border-top: 1px solid #e2e8f0;
+
+}
+
+/* ==================================================
+   RELATED CONCEPTS
+================================================== */
+
+h2 + ul {
+
+    background: white;
+
+    border: 1px solid #e2e8f0;
+
+    border-radius: 16px;
+
+    padding: 20px 24px;
+
+}
+
+/* ==================================================
+   HOME BUTTON
+================================================== */
+
+.home-button {
+
+    display: inline-flex;
+
+    align-items: center;
+
+    gap: 8px;
+
+    margin: 24px 0;
+
+    padding: 12px 18px;
+
+    background: #2563eb;
+
+    color: white !important;
+
+    text-decoration: none;
+
+    border-radius: 12px;
+
+    font-weight: 600;
+
+    transition: all 0.2s ease;
+
+}
+
+.home-button:hover {
+
+    background: #1d4ed8;
+
+    transform: translateY(-2px);
+
+}
+
+/* ==================================================
+   BREADCRUMB
+================================================== */
+
+.breadcrumb {
+
+    margin: 24px 0;
+
+    color: #64748b;
+
+    font-size: 0.95rem;
+
+}
+
+.breadcrumb a {
+
+    color: #2563eb;
+
+    text-decoration: none;
+
+}
+
+.breadcrumb span {
+
+    margin: 0 6px;
+
+}
+
+/* ==================================================
+   IMAGES
+================================================== */
 
 img {
 
@@ -272,11 +450,32 @@ img {
 
     height: auto;
 
-    border-radius: 12px;
+    border-radius: 14px;
+
+    box-shadow:
+        0 8px 24px rgba(0,0,0,0.06);
 
 }
 
-/* ---------- Tablet ---------- */
+/* ==================================================
+   LINKS
+================================================== */
+
+a {
+
+    color: #2563eb;
+
+}
+
+a:hover {
+
+    text-decoration: underline;
+
+}
+
+/* ==================================================
+   TABLET
+================================================== */
 
 @media (max-width: 768px) {
 
@@ -300,13 +499,27 @@ img {
 
 }
 
-/* ---------- Mobile ---------- */
+/* ==================================================
+   MOBILE
+================================================== */
 
 @media (max-width: 480px) {
+
+    body {
+
+        padding: 14px;
+
+    }
 
     #results {
 
         grid-template-columns: 1fr;
+
+    }
+
+    .card {
+
+        padding: 20px;
 
     }
 
@@ -316,9 +529,11 @@ img {
 
     }
 
-    .card {
+    .home-button {
 
-        padding: 20px;
+        width: 100%;
+
+        justify-content: center;
 
     }
 
