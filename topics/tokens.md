@@ -6,8 +6,6 @@ summary: Understanding how tokens act as the basic building blocks processed by 
 date: 2026-06-08
 ---
 
-# Tokens
-
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/7fdbeb17-845c-44ac-a46e-aa85783d3fba"
