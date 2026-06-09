@@ -8,7 +8,7 @@ date: 2026-06-08
 
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+    src="https://github.com/user-attachments/assets/1cc51be4-0559-4972-8251-b8bccf01edc3"
     alt="Prompt Engineering"
     style="width:100%; max-width:1200px; height:auto; border-radius:8px;"
   />
