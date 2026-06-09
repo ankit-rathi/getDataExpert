@@ -2,7 +2,7 @@ import frontmatter
 import json
 from pathlib import Path
 
-TOPICS_DIR = Path("topics")
+TOPICS_DIR = Path("_topics")
 OUTPUT_FILE = Path("data/search-index.json")
 
 articles = []
