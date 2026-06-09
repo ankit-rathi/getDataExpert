@@ -4,20 +4,17 @@ on:
 push:
 branches:
 - main
-
 workflow_dispatch:
 
 permissions:
 contents: write
 
 jobs:
-
 build:
-
 runs-on: ubuntu-latest
 
+```
 steps:
-
   - name: Checkout repository
     uses: actions/checkout@v4
 
@@ -38,18 +35,9 @@ steps:
     run: |
       python scripts/build_related.py
 
-  # Uncomment later
-  #
-  # - name: Build graph
-  #   run: |
-  #     python scripts/build_graph.py
-  #
-  # - name: Build embeddings
-  #   run: |
-  #     python scripts/build_embeddings.py
-
   - name: Commit generated files
     uses: stefanzweifel/git-auto-commit-action@v5
     with:
       commit_message: "Update generated data"
       file_pattern: data/*.json
+```
