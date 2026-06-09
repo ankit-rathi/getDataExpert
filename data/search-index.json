@@ -26,6 +26,20 @@
     "url": "/sketch-intelligence/topics/tokens/"
   },
   {
+    "title": "Why Does AI Hallucinate?",
+    "category": "GenAI",
+    "tags": [
+      "ai-hallucinations",
+      "llm",
+      "generative-ai",
+      "prediction",
+      "reliability"
+    ],
+    "summary": "Understanding why AI systems sometimes generate incorrect or fabricated answers and how modern AI systems reduce hallucinations.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/ai-hallucinations/"
+  },
+  {
     "title": "How Does ChatGPT Work?",
     "category": "GenAI",
     "tags": [
