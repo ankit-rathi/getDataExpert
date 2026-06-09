@@ -150,6 +150,22 @@
     "url": "/sketch-intelligence/topics/foundation-models/"
   },
   {
+    "title": "What is Data Science?",
+    "category": "Data & AI",
+    "tags": [
+      "data-science",
+      "analytics",
+      "machine-learning",
+      "statistics",
+      "data",
+      "insights",
+      "decision-making"
+    ],
+    "summary": "Understanding how Data Science transforms raw data into insights, predictions, and better decisions by combining data, statistics, technology, and business understanding.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/data-science/"
+  },
+  {
     "title": "What is Generative AI?",
     "category": "GenAI",
     "tags": [
