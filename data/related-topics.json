@@ -58,10 +58,17 @@
     "chatgpt",
     "ai-agents"
   ],
+  "data": [
+    "rag",
+    "chatgpt",
+    "generative-ai",
+    "vector-database"
+  ],
   "vector-database": [
     "rag",
     "tokens",
     "chatgpt",
-    "generative-ai"
+    "generative-ai",
+    "data"
   ]
 }
