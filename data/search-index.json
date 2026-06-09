@@ -26,6 +26,20 @@
     "url": "/sketch-intelligence/topics/tokens/"
   },
   {
+    "title": "How Does ChatGPT Work?",
+    "category": "GenAI",
+    "tags": [
+      "chatgpt",
+      "llm",
+      "generative-ai",
+      "pattern-prediction",
+      "ai"
+    ],
+    "summary": "Understanding how ChatGPT learns patterns from large amounts of text and predicts the most likely next word to generate human-like responses.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/chatgpt/"
+  },
+  {
     "title": "What are AI Agents?",
     "category": "GenAI",
     "tags": [
