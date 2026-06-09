@@ -178,6 +178,21 @@
     "url": "/sketch-intelligence/topics/data/"
   },
   {
+    "title": "What is Machine Learning?",
+    "category": "GenAI",
+    "tags": [
+      "machine-learning",
+      "ai",
+      "patterns",
+      "prediction",
+      "data",
+      "supervised-learning"
+    ],
+    "summary": "Understanding how machines learn patterns from data to make predictions, decisions, and improve automatically without being explicitly programmed.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/machine-learning/"
+  },
+  {
     "title": "What Are Vector Databases?",
     "category": "GenAI",
     "tags": [
