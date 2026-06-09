@@ -1,0 +1,35 @@
+---
+
+title: What Is Information?
+category: Foundations
+tags: [information, uncertainty, decisions, data, intelligence]
+summary: Understanding how information reduces uncertainty and helps humans, organizations, and AI systems make better decisions.
+date: 2026-06-08
+---
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/5de8daa2-4905-4449-a3f5-d6c2359d0241"
+    alt="What Is Information?"
+    style="width:100%; max-width:1200px; height:auto; border-radius:8px;"
+  />
+</p>
+
+<p>
+  <a href="/sketch-intelligence/" class="home-button">
+    ← Back to Sketch Intelligence
+  </a>
+</p>
+
+## Related Concepts
+
+* Reality & Uncertainty
+* Intelligence
+* Intelligence Loop
+* Observation Systems
+* Data
+* Decision Intelligence
+* Analytics
+* Learning
+* Pattern Recognition
+* Artificial Intelligence
