@@ -1,8 +1,8 @@
 ---
-title: AI Agents
+title: What are AI Agents?
 category: GenAI
-tags: [llm, tools, planning]
-summary: How AI agents work end-to-end.
+tags: [llm, tools, planning, automation]
+summary: Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.
 date: 2026-06-08
 ---
 
