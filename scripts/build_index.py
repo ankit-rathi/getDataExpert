@@ -16,7 +16,7 @@ for md_file in TOPICS_DIR.glob("*.md"):
         "category": post.get("category", ""),
         "tags": post.get("tags", []),
         "summary": post.get("summary", ""),
-        "date": post.get("date", ""),
+        "date": str(post.get("date", "")),
         "url":f"/sketch-intelligence/topics/{md_file.stem}/"
     })
 
