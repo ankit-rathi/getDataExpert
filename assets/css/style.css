@@ -1,163 +1,27 @@
-body{
+body {
 
-    max-width:900px;
+    max-width: 1000px;
 
-    margin:auto;
+    margin: auto;
 
-    padding:20px;
+    font-family: sans-serif;
 
-    font-family:Arial,sans-serif;
-
-    background:#fafafa;
-
-    color:#222;
+    line-height: 1.7;
 
 }
 
-.hero{
+.card {
 
-    text-align:center;
+    border: 1px solid #ddd;
 
-    margin-top:80px;
+    padding: 20px;
 
-}
-
-.hero h1{
-
-    font-size:4rem;
-
-    margin-bottom:10px;
+    margin-bottom: 20px;
 
 }
 
-.subtitle{
+img {
 
-    font-size:1.4rem;
-
-    color:#666;
-
-}
-
-.tagline{
-
-    color:#888;
-
-    margin-bottom:40px;
-
-}
-
-#search-box{
-
-    width:80%;
-
-    max-width:600px;
-
-    padding:18px;
-
-    font-size:1.2rem;
-
-    border-radius:16px;
-
-    border:1px solid #ddd;
-
-    box-shadow:0 3px 10px rgba(0,0,0,.08);
-
-}
-
-#search-box:focus{
-
-    outline:none;
-
-    border-color:#4f8cff;
-
-}
-
-.popular{
-
-    margin-top:70px;
-
-    text-align:center;
-
-}
-
-.chips{
-
-    display:flex;
-
-    flex-wrap:wrap;
-
-    justify-content:center;
-
-    gap:15px;
-
-}
-
-.chips span{
-
-    background:white;
-
-    border:1px solid #ddd;
-
-    padding:10px 20px;
-
-    border-radius:30px;
-
-    cursor:pointer;
-
-    transition:.3s;
-
-}
-
-.chips span:hover{
-
-    background:#4f8cff;
-
-    color:white;
-
-}
-
-#results{
-
-    margin-top:50px;
-
-}
-
-.result-card{
-
-    background:white;
-
-    padding:25px;
-
-    border-radius:15px;
-
-    margin-bottom:20px;
-
-    box-shadow:0 3px 12px rgba(0,0,0,.08);
-
-    transition:.3s;
-
-}
-
-.result-card:hover{
-
-    transform:translateY(-3px);
-
-}
-
-.result-card a{
-
-    text-decoration:none;
-
-    color:#222;
-
-    font-size:1.3rem;
-
-    font-weight:bold;
-
-}
-
-.result-card p{
-
-    color:#666;
+    width: 100%;
 
 }
