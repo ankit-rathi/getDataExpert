@@ -8,7 +8,7 @@ date: 2026-06-08
 
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+    src="https://github.com/user-attachments/assets/d3bcd22b-4982-46c1-b610-fa39b9cd3ab4"
     alt="What is Generative AI?"
     style="width:100%; max-width:1200px; height:auto; border-radius:8px;"
   />
