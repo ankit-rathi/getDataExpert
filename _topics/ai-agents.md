@@ -14,7 +14,11 @@ date: 2026-06-08
   />
 </p>
 
-...
+<p>
+  <a href="/index.html" class="home-button">
+    ← Back to Sketch Intelligence
+  </a>
+</p>
 
 ## Related Concepts
 
