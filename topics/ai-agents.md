@@ -5,7 +5,6 @@ tags: [llm, tools, planning]
 summary: How AI agents work end-to-end.
 date: 2026-06-08
 ---
-# AI Agents
 
 <p align="center">
   <img 
