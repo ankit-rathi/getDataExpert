@@ -1,27 +1,163 @@
-body {
+body{
 
-    max-width: 1000px;
+    max-width:900px;
 
-    margin: auto;
+    margin:auto;
 
-    font-family: sans-serif;
+    padding:20px;
 
-    line-height: 1.7;
+    font-family:Arial,sans-serif;
 
-}
+    background:#fafafa;
 
-.card {
-
-    border: 1px solid #ddd;
-
-    padding: 20px;
-
-    margin-bottom: 20px;
+    color:#222;
 
 }
 
-img {
+.hero{
 
-    width: 100%;
+    text-align:center;
+
+    margin-top:80px;
+
+}
+
+.hero h1{
+
+    font-size:4rem;
+
+    margin-bottom:10px;
+
+}
+
+.subtitle{
+
+    font-size:1.4rem;
+
+    color:#666;
+
+}
+
+.tagline{
+
+    color:#888;
+
+    margin-bottom:40px;
+
+}
+
+#search-box{
+
+    width:80%;
+
+    max-width:600px;
+
+    padding:18px;
+
+    font-size:1.2rem;
+
+    border-radius:16px;
+
+    border:1px solid #ddd;
+
+    box-shadow:0 3px 10px rgba(0,0,0,.08);
+
+}
+
+#search-box:focus{
+
+    outline:none;
+
+    border-color:#4f8cff;
+
+}
+
+.popular{
+
+    margin-top:70px;
+
+    text-align:center;
+
+}
+
+.chips{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    justify-content:center;
+
+    gap:15px;
+
+}
+
+.chips span{
+
+    background:white;
+
+    border:1px solid #ddd;
+
+    padding:10px 20px;
+
+    border-radius:30px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+.chips span:hover{
+
+    background:#4f8cff;
+
+    color:white;
+
+}
+
+#results{
+
+    margin-top:50px;
+
+}
+
+.result-card{
+
+    background:white;
+
+    padding:25px;
+
+    border-radius:15px;
+
+    margin-bottom:20px;
+
+    box-shadow:0 3px 12px rgba(0,0,0,.08);
+
+    transition:.3s;
+
+}
+
+.result-card:hover{
+
+    transform:translateY(-3px);
+
+}
+
+.result-card a{
+
+    text-decoration:none;
+
+    color:#222;
+
+    font-size:1.3rem;
+
+    font-weight:bold;
+
+}
+
+.result-card p{
+
+    color:#666;
 
 }
