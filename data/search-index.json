@@ -249,6 +249,21 @@
     "url": "/sketch-intelligence/topics/prompt-engineering/"
   },
   {
+    "title": "What is a Context Window?",
+    "category": "GenAI",
+    "tags": [
+      "context-window",
+      "llm",
+      "attention",
+      "tokens",
+      "memory",
+      "transformers"
+    ],
+    "summary": "Understanding how the context window acts as an AI model's temporary working memory, determining how much information it can consider at one time.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/context-window/"
+  },
+  {
     "title": "What is Data Science?",
     "category": "Data & AI",
     "tags": [
