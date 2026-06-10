@@ -2,7 +2,7 @@
 
 title: What Is The Intelligence Loop?
 category: Foundations
-tags: [intelligence-loop, feedback-loops, learning, decision-making, systems-thinking]
+tags: [intelligence-loop, feedback-loops, learning, decision-making, systems-thinking, intelligence, data, automation]
 summary: Understanding how intelligence emerges through a continuous cycle of observation, understanding, decision-making, action, and learning.
 date: 2026-06-08
 ---
