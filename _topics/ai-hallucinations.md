@@ -1,7 +1,7 @@
 ---
 title: Why Does AI Hallucinate?
 category: GenAI
-tags: [ai-hallucinations, llm, generative-ai, prediction, reliability]
+tags: [ai-hallucinations, llm, generative-ai, prediction, reliability, rag, knowledge-base, context-window]
 summary: Understanding why AI systems sometimes generate incorrect or fabricated answers and how modern AI systems reduce hallucinations.
 date: 2026-06-08
 ---
