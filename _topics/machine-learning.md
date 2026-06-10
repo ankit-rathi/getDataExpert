@@ -19,18 +19,3 @@ date: 2026-06-08
     ← Back to Sketch Intelligence
   </a>
 </p>
-
-## Related Concepts
-
-* Data
-* Information
-* Intelligence Loop
-* Pattern Recognition
-* Analytics
-* Prediction
-* Artificial Intelligence
-* Deep Learning
-* Neural Networks
-* Foundation Models
-* Large Language Models
-* Generative AI

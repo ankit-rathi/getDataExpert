@@ -20,15 +20,3 @@ date: 2026-06-08
   </a>
 </p>
 
-## Related Concepts
-
-* Reality & Uncertainty
-* Information
-* Intelligence Loop
-* Learning Organizations
-* Observation Systems
-* Data
-* Pattern Recognition
-* Decision Intelligence
-* Feedback & Learning
-* Artificial Intelligence

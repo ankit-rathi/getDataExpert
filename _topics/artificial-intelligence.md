@@ -20,17 +20,3 @@ date: 2026-06-08
   </a>
 </p>
 
-## Related Concepts
-
-* Information
-* Intelligence Loop
-* Data
-* Machine Learning
-* Deep Learning
-* Neural Networks
-* Foundation Models
-* Large Language Models (LLMs)
-* Generative AI
-* AI Agents
-* Decision Intelligence
-* Learning Systems

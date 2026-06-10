@@ -19,14 +19,3 @@ date: 2026-06-08
     ← Back to Sketch Intelligence
   </a>
 </p>
-
-## Related Concepts
-
-* LLM
-* Embeddings
-* Semantic Search
-* RAG
-* Knowledge Base
-* Similarity Search
-* AI Search Engines
-* Recommendation Systems

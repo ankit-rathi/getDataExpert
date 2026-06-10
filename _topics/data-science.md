@@ -20,17 +20,3 @@ date: 2026-06-08
   </a>
 </p>
 
-## Related Concepts
-
-* Data
-* Information
-* Analytics
-* Statistics
-* Data Engineering
-* Machine Learning
-* Artificial Intelligence
-* Business Intelligence
-* Data Visualization
-* Decision Intelligence
-* Pattern Recognition
-* Predictive Analytics

@@ -21,13 +21,3 @@ date: 2026-06-08
   </a>
 </p>
 
-## Related Concepts
-
-* LLM
-* Prompt Engineering
-* Context Window
-* Embeddings
-* Vector Database
-* Knowledge Base
-* AI Agents
-* Search Systems

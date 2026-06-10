@@ -20,17 +20,3 @@ date: 2026-06-08
   </a>
 </p>
 
-## Related Concepts
-
-* Artificial Intelligence (AI)
-* Machine Learning (ML)
-* Deep Learning
-* Large Language Models (LLMs)
-* Neural Networks
-* Prompt Engineering
-* Tokens
-* Transformers
-* Foundation Models
-* AI Agents
-* RAG
-* Embeddings

@@ -20,14 +20,3 @@ date: 2026-06-08
   </a>
 </p>
 
-## Related Concepts
-
-* Generative AI
-* Large Language Models
-* AI Tools
-* AI Agents
-* Automation
-* Human-AI Collaboration
-* Future of Work
-* Digital Transformation
-* Productivity

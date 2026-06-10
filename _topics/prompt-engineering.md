@@ -20,13 +20,4 @@ date: 2026-06-08
   </a>
 </p>
 
-## Related Concepts
 
-* LLM
-* Context Window
-* Tokens
-* Attention
-* Chain of Thought
-* AI Agents
-* RAG
-* Few-Shot Learning

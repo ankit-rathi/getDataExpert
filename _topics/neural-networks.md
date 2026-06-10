@@ -20,17 +20,3 @@ date: 2026-06-08
   </a>
 </p>
 
-## Related Concepts
-
-* Machine Learning
-* Deep Learning
-* Artificial Intelligence (AI)
-* Pattern Recognition
-* Foundation Models
-* Large Language Models (LLMs)
-* Generative AI
-* Embeddings
-* Transformers
-* Computer Vision
-* Speech Recognition
-* Neural Representations

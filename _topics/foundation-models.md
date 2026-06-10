@@ -20,17 +20,4 @@ date: 2026-06-08
   </a>
 </p>
 
-## Related Concepts
 
-* Machine Learning
-* Deep Learning
-* Neural Networks
-* Transformers
-* Large Language Models (LLMs)
-* Generative AI
-* Tokens
-* Embeddings
-* Context Window
-* Prompt Engineering
-* Fine-Tuning
-* AI Agents

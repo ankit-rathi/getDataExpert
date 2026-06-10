@@ -20,17 +20,3 @@ date: 2026-06-08
   </a>
 </p>
 
-## Related Concepts
-
-* Data
-* Information
-* Intelligence Loop
-* Machine Learning
-* Pattern Recognition
-* Neural Networks
-* Foundation Models
-* Large Language Models
-* Generative AI
-* Computer Vision
-* Natural Language Processing
-* Representation Learning

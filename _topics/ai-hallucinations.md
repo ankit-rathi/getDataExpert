@@ -20,14 +20,4 @@ date: 2026-06-08
   </a>
 </p>
 
-## Related Concepts
 
-* Generative AI
-* Large Language Models
-* How ChatGPT Works
-* Tokens
-* Prompt Engineering
-* Retrieval-Augmented Generation (RAG)
-* Vector Databases
-* AI Agents
-* Fact Checking

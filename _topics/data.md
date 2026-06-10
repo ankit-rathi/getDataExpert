@@ -19,16 +19,3 @@ date: 2026-06-08
     ← Back to Sketch Intelligence
   </a>
 </p>
-
-## Related Concepts
-
-* Data Collection
-* Digital Footprints
-* Databases
-* Data Analytics
-* Machine Learning
-* Artificial Intelligence
-* Pattern Recognition
-* Data-Driven Decision Making
-* Big Data
-* Business Intelligence
