@@ -1,70 +1,4 @@
 {
-  "llm": [
-    "ai-agents",
-    "ai-hallucinations",
-    "attention",
-    "chatgpt",
-    "context-window",
-    "foundation-models",
-    "generative-ai",
-    "prompt-engineering",
-    "rag",
-    "tokens",
-    "transformers"
-  ],
-  "deep-learning": [
-    "artificial-intelligence",
-    "attention",
-    "chatgpt",
-    "data",
-    "data-science",
-    "foundation-models",
-    "generative-ai",
-    "machine-learning",
-    "neural-networks",
-    "rag",
-    "transformers",
-    "vector-database"
-  ],
-  "vector-database": [
-    "artificial-intelligence",
-    "chatgpt",
-    "data",
-    "deep-learning",
-    "generative-ai",
-    "machine-learning",
-    "neural-networks",
-    "rag",
-    "tokens"
-  ],
-  "neural-networks": [
-    "artificial-intelligence",
-    "attention",
-    "chatgpt",
-    "data",
-    "data-science",
-    "deep-learning",
-    "generative-ai",
-    "machine-learning",
-    "rag",
-    "transformers",
-    "vector-database"
-  ],
-  "transformers": [
-    "ai-agents",
-    "ai-hallucinations",
-    "attention",
-    "chatgpt",
-    "context-window",
-    "deep-learning",
-    "foundation-models",
-    "generative-ai",
-    "llm",
-    "neural-networks",
-    "prompt-engineering",
-    "rag",
-    "tokens"
-  ],
   "rag": [
     "ai-agents",
     "ai-hallucinations",
@@ -80,22 +14,99 @@
     "machine-learning",
     "neural-networks",
     "prompt-engineering",
+    "semantic-search",
     "tokens",
     "transformers",
     "vector-database"
   ],
-  "machine-learning": [
+  "tokens": [
+    "ai-agents",
     "ai-hallucinations",
+    "attention",
+    "chatgpt",
+    "context-window",
+    "foundation-models",
+    "generative-ai",
+    "llm",
+    "prompt-engineering",
+    "rag",
+    "semantic-search",
+    "transformers",
+    "vector-database"
+  ],
+  "intelligence-loop": [
     "artificial-intelligence",
+    "data-science",
+    "intelligence"
+  ],
+  "ai-hallucinations": [
+    "ai-agents",
+    "attention",
+    "chatgpt",
+    "context-window",
+    "foundation-models",
+    "generative-ai",
+    "llm",
+    "machine-learning",
+    "prompt-engineering",
+    "rag",
+    "tokens",
+    "transformers"
+  ],
+  "semantic-search": [
+    "rag",
+    "tokens",
+    "vector-database"
+  ],
+  "ai-and-jobs": [
+    "ai-agents"
+  ],
+  "deep-learning": [
+    "artificial-intelligence",
+    "attention",
     "chatgpt",
     "data",
     "data-science",
-    "deep-learning",
+    "foundation-models",
     "generative-ai",
-    "information",
-    "intelligence",
+    "machine-learning",
     "neural-networks",
     "rag",
+    "transformers",
+    "vector-database"
+  ],
+  "attention": [
+    "ai-agents",
+    "ai-hallucinations",
+    "chatgpt",
+    "context-window",
+    "deep-learning",
+    "foundation-models",
+    "generative-ai",
+    "llm",
+    "neural-networks",
+    "prompt-engineering",
+    "rag",
+    "tokens",
+    "transformers"
+  ],
+  "chatgpt": [
+    "ai-agents",
+    "ai-hallucinations",
+    "artificial-intelligence",
+    "attention",
+    "context-window",
+    "data",
+    "deep-learning",
+    "foundation-models",
+    "generative-ai",
+    "llm",
+    "machine-learning",
+    "neural-networks",
+    "prompt-engineering",
+    "rag",
+    "tokens",
+    "transformers",
     "vector-database"
   ],
   "information": [
@@ -105,8 +116,57 @@
     "intelligence",
     "machine-learning"
   ],
-  "ai-and-jobs": [
-    "ai-agents"
+  "ai-agents": [
+    "ai-and-jobs",
+    "ai-hallucinations",
+    "attention",
+    "chatgpt",
+    "context-window",
+    "foundation-models",
+    "generative-ai",
+    "llm",
+    "prompt-engineering",
+    "rag",
+    "tokens",
+    "transformers"
+  ],
+  "prompt-engineering": [
+    "ai-agents",
+    "ai-hallucinations",
+    "attention",
+    "chatgpt",
+    "context-window",
+    "foundation-models",
+    "generative-ai",
+    "llm",
+    "rag",
+    "tokens",
+    "transformers"
+  ],
+  "foundation-models": [
+    "ai-agents",
+    "ai-hallucinations",
+    "attention",
+    "chatgpt",
+    "context-window",
+    "deep-learning",
+    "generative-ai",
+    "llm",
+    "prompt-engineering",
+    "rag",
+    "tokens",
+    "transformers"
+  ],
+  "data-science": [
+    "artificial-intelligence",
+    "data",
+    "deep-learning",
+    "generative-ai",
+    "information",
+    "intelligence",
+    "intelligence-loop",
+    "machine-learning",
+    "neural-networks"
   ],
   "generative-ai": [
     "ai-agents",
@@ -128,36 +188,25 @@
     "transformers",
     "vector-database"
   ],
-  "foundation-models": [
+  "llm": [
     "ai-agents",
     "ai-hallucinations",
     "attention",
     "chatgpt",
     "context-window",
-    "deep-learning",
+    "foundation-models",
     "generative-ai",
-    "llm",
     "prompt-engineering",
     "rag",
     "tokens",
     "transformers"
   ],
-  "data": [
+  "intelligence": [
     "artificial-intelligence",
-    "chatgpt",
     "data-science",
-    "deep-learning",
-    "generative-ai",
     "information",
-    "machine-learning",
-    "neural-networks",
-    "rag",
-    "vector-database"
-  ],
-  "intelligence-loop": [
-    "artificial-intelligence",
-    "data-science",
-    "intelligence"
+    "intelligence-loop",
+    "machine-learning"
   ],
   "artificial-intelligence": [
     "chatgpt",
@@ -173,37 +222,22 @@
     "rag",
     "vector-database"
   ],
-  "tokens": [
-    "ai-agents",
-    "ai-hallucinations",
-    "attention",
+  "data": [
+    "artificial-intelligence",
     "chatgpt",
-    "context-window",
-    "foundation-models",
+    "data-science",
+    "deep-learning",
     "generative-ai",
-    "llm",
-    "prompt-engineering",
+    "information",
+    "machine-learning",
+    "neural-networks",
     "rag",
-    "transformers",
     "vector-database"
   ],
-  "ai-hallucinations": [
-    "ai-agents",
-    "attention",
-    "chatgpt",
-    "context-window",
-    "foundation-models",
-    "generative-ai",
-    "llm",
-    "machine-learning",
-    "prompt-engineering",
-    "rag",
-    "tokens",
-    "transformers"
-  ],
-  "attention": [
+  "transformers": [
     "ai-agents",
     "ai-hallucinations",
+    "attention",
     "chatgpt",
     "context-window",
     "deep-learning",
@@ -213,21 +247,21 @@
     "neural-networks",
     "prompt-engineering",
     "rag",
-    "tokens",
-    "transformers"
+    "tokens"
   ],
-  "prompt-engineering": [
-    "ai-agents",
+  "machine-learning": [
     "ai-hallucinations",
-    "attention",
+    "artificial-intelligence",
     "chatgpt",
-    "context-window",
-    "foundation-models",
+    "data",
+    "data-science",
+    "deep-learning",
     "generative-ai",
-    "llm",
+    "information",
+    "intelligence",
+    "neural-networks",
     "rag",
-    "tokens",
-    "transformers"
+    "vector-database"
   ],
   "context-window": [
     "ai-agents",
@@ -242,55 +276,29 @@
     "tokens",
     "transformers"
   ],
-  "data-science": [
+  "vector-database": [
     "artificial-intelligence",
+    "chatgpt",
     "data",
     "deep-learning",
     "generative-ai",
-    "information",
-    "intelligence",
-    "intelligence-loop",
-    "machine-learning",
-    "neural-networks"
-  ],
-  "chatgpt": [
-    "ai-agents",
-    "ai-hallucinations",
-    "artificial-intelligence",
-    "attention",
-    "context-window",
-    "data",
-    "deep-learning",
-    "foundation-models",
-    "generative-ai",
-    "llm",
     "machine-learning",
     "neural-networks",
-    "prompt-engineering",
     "rag",
-    "tokens",
-    "transformers",
-    "vector-database"
+    "semantic-search",
+    "tokens"
   ],
-  "ai-agents": [
-    "ai-and-jobs",
-    "ai-hallucinations",
+  "neural-networks": [
+    "artificial-intelligence",
     "attention",
     "chatgpt",
-    "context-window",
-    "foundation-models",
-    "generative-ai",
-    "llm",
-    "prompt-engineering",
-    "rag",
-    "tokens",
-    "transformers"
-  ],
-  "intelligence": [
-    "artificial-intelligence",
+    "data",
     "data-science",
-    "information",
-    "intelligence-loop",
-    "machine-learning"
+    "deep-learning",
+    "generative-ai",
+    "machine-learning",
+    "rag",
+    "transformers",
+    "vector-database"
   ]
 }
