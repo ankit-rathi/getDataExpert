@@ -538,3 +538,56 @@ a:hover {
     }
 
 }
+
+/* Connected Concept Cards */
+
+.concept-cards {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 16px;
+
+    margin-top: 25px;
+
+    margin-bottom: 40px;
+
+}
+
+.concept-card {
+
+    text-decoration: none;
+
+    color: #333;
+
+    background: #f8fafc;
+
+    border: 1px solid #e2e8f0;
+
+    border-radius: 999px;
+
+    padding: 12px 22px;
+
+    font-size: 0.95rem;
+
+    font-weight: 500;
+
+    box-shadow: 0 2px 8px rgba(0,0,0,.06);
+
+    transition: all .25s ease;
+
+}
+
+
+.concept-card:hover {
+
+    background: #4f8cff;
+
+    color: white;
+
+    transform: translateY(-3px);
+
+    box-shadow: 0 8px 20px rgba(79,140,255,.35);
+
+}
