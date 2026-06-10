@@ -1,7 +1,7 @@
 ---
 title: What are Tokens?
 category: GenAI
-tags: [llm, tokenization, embeddings]
+tags: [tokens, tokenization, llm, transformers, attention, context-window, embeddings, generative-ai]
 summary: Understanding how tokens act as the basic building blocks processed by large language models.
 date: 2026-06-08
 ---
