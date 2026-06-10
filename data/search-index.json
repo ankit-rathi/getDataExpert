@@ -4,9 +4,12 @@
     "category": "GenAI",
     "tags": [
       "rag",
-      "llm",
       "retrieval",
       "knowledge-base",
+      "llm",
+      "semantic-search",
+      "vector-database",
+      "embeddings",
       "ai"
     ],
     "summary": "Understanding how Retrieval-Augmented Generation (RAG) helps AI retrieve relevant information before generating answers.",
