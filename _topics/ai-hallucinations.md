@@ -14,10 +14,3 @@ date: 2026-06-08
   />
 </p>
 
-<p>
-  <a href="/sketch-intelligence/" class="home-button">
-    ← Back to Sketch Intelligence
-  </a>
-</p>
-
-
