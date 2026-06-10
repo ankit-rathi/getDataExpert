@@ -2,7 +2,7 @@
 
 title: What is RAG?
 category: GenAI
-tags: [rag, llm, retrieval, knowledge-base, ai]
+tags: [rag, retrieval, knowledge-base, llm, semantic-search, vector-database, embeddings, ai]
 summary: Understanding how Retrieval-Augmented Generation (RAG) helps AI retrieve relevant information before generating answers.
 date: 2026-06-08
 ---
