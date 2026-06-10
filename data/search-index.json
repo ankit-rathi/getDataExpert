@@ -98,6 +98,21 @@
     "url": "/sketch-intelligence/topics/deep-learning/"
   },
   {
+    "title": "What is AI Memory?",
+    "category": "GenAI",
+    "tags": [
+      "ai-memory",
+      "rag",
+      "vector-database",
+      "context",
+      "personalization",
+      "llm"
+    ],
+    "summary": "Understanding how AI memory enables systems to remember information, maintain continuity, personalize interactions, and improve intelligence over time.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/ai-memory/"
+  },
+  {
     "title": "What is Attention?",
     "category": "GenAI",
     "tags": [

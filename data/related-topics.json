@@ -2,6 +2,7 @@
   "rag": [
     "ai-agents",
     "ai-hallucinations",
+    "ai-memory",
     "artificial-intelligence",
     "attention",
     "chatgpt",
@@ -22,6 +23,7 @@
   "tokens": [
     "ai-agents",
     "ai-hallucinations",
+    "ai-memory",
     "attention",
     "chatgpt",
     "context-window",
@@ -41,6 +43,7 @@
   ],
   "ai-hallucinations": [
     "ai-agents",
+    "ai-memory",
     "attention",
     "chatgpt",
     "context-window",
@@ -54,6 +57,7 @@
     "transformers"
   ],
   "semantic-search": [
+    "ai-memory",
     "rag",
     "tokens",
     "vector-database"
@@ -75,9 +79,26 @@
     "transformers",
     "vector-database"
   ],
+  "ai-memory": [
+    "ai-agents",
+    "ai-hallucinations",
+    "attention",
+    "chatgpt",
+    "context-window",
+    "foundation-models",
+    "generative-ai",
+    "llm",
+    "prompt-engineering",
+    "rag",
+    "semantic-search",
+    "tokens",
+    "transformers",
+    "vector-database"
+  ],
   "attention": [
     "ai-agents",
     "ai-hallucinations",
+    "ai-memory",
     "chatgpt",
     "context-window",
     "deep-learning",
@@ -93,6 +114,7 @@
   "chatgpt": [
     "ai-agents",
     "ai-hallucinations",
+    "ai-memory",
     "artificial-intelligence",
     "attention",
     "context-window",
@@ -119,6 +141,7 @@
   "ai-agents": [
     "ai-and-jobs",
     "ai-hallucinations",
+    "ai-memory",
     "attention",
     "chatgpt",
     "context-window",
@@ -133,6 +156,7 @@
   "prompt-engineering": [
     "ai-agents",
     "ai-hallucinations",
+    "ai-memory",
     "attention",
     "chatgpt",
     "context-window",
@@ -146,6 +170,7 @@
   "foundation-models": [
     "ai-agents",
     "ai-hallucinations",
+    "ai-memory",
     "attention",
     "chatgpt",
     "context-window",
@@ -171,6 +196,7 @@
   "generative-ai": [
     "ai-agents",
     "ai-hallucinations",
+    "ai-memory",
     "artificial-intelligence",
     "attention",
     "chatgpt",
@@ -191,6 +217,7 @@
   "llm": [
     "ai-agents",
     "ai-hallucinations",
+    "ai-memory",
     "attention",
     "chatgpt",
     "context-window",
@@ -237,6 +264,7 @@
   "transformers": [
     "ai-agents",
     "ai-hallucinations",
+    "ai-memory",
     "attention",
     "chatgpt",
     "context-window",
@@ -266,6 +294,7 @@
   "context-window": [
     "ai-agents",
     "ai-hallucinations",
+    "ai-memory",
     "attention",
     "chatgpt",
     "foundation-models",
@@ -277,6 +306,7 @@
     "transformers"
   ],
   "vector-database": [
+    "ai-memory",
     "artificial-intelligence",
     "chatgpt",
     "data",
