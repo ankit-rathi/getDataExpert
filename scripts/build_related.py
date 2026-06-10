@@ -2,68 +2,52 @@ import frontmatter
 import json
 from pathlib import Path
 
-TOPICS_DIR = Path("topics")
+TOPICS_DIR = Path("_topics")
 OUTPUT_FILE = Path("data/related-topics.json")
 
-posts = []
+topics = {}
 
-# Load all markdown files
+# Load all topics
 for md_file in TOPICS_DIR.glob("*.md"):
 
     post = frontmatter.load(md_file)
 
-    posts.append({
-        "slug": md_file.stem,
-        "tags": set(post.get("tags", []))
-    })
+    slug = md_file.stem
 
-related_topics = {}
+    tags = set(post.get("tags", []))
 
-for current_post in posts:
+    topics[slug] = tags
 
-    current_slug = current_post["slug"]
+# Build relationships based on shared tags
+related = {}
 
-    similarities = []
+for topic1, tags1 in topics.items():
 
-    for other_post in posts:
+    neighbours = []
 
-        if current_post == other_post:
+    for topic2, tags2 in topics.items():
+
+        if topic1 == topic2:
             continue
 
-        common_tags = (
-            current_post["tags"]
-            &
-            other_post["tags"]
-        )
+        if tags1.intersection(tags2):
 
-        score = len(common_tags)
+            neighbours.append(topic2)
 
-        if score > 0:
-            similarities.append(
-                (
-                    other_post["slug"],
-                    score
-                )
-            )
-
-    similarities.sort(
-        key=lambda item: item[1],
-        reverse=True
-    )
-
-    related_topics[current_slug] = [
-        slug
-        for slug, score in similarities[:5]
-    ]
+    related[topic1] = sorted(neighbours)
 
 OUTPUT_FILE.parent.mkdir(exist_ok=True)
 
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+with open(
+    OUTPUT_FILE,
+    "w",
+    encoding="utf-8"
+) as f:
+
     json.dump(
-        related_topics,
+        related,
         f,
-        indent=2,
-        ensure_ascii=False
+        indent=2
     )
 
 print("related-topics.json generated successfully.")
