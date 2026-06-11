@@ -1,7 +1,7 @@
 ---
 title: What is Semantic Search?
 category: GenAI
-tags: [semantic-search, vector-database, embeddings, rag, retrieval, ai-search]
+tags: [semantic-search, vector-database, embeddings, rag, retrieval, ai-search, knowledge-base, llm]
 summary: Understanding how semantic search finds information by meaning rather than exact keyword matching, enabling more intelligent AI retrieval systems.
 date: 2026-06-08
 ---
