@@ -1,7 +1,7 @@
 ---
 title: What is Attention?
 category: GenAI
-tags: [attention, transformers, llm, deep-learning, context, neural-networks]
+tags: [attention, transformers, llm, deep-learning, context-window, tokens, neural-networks, foundation-models]
 summary: Understanding how attention helps AI focus on the most relevant information, enabling better understanding of language, context, and long documents.
 date: 2026-06-08
 ---
