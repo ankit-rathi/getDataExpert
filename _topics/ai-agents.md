@@ -1,7 +1,7 @@
 ---
 title: What are AI Agents?
 category: GenAI
-tags: [llm, tools, planning, automation]
+tags: [ai-agents, llm, tools, planning, automation, memory, reasoning, agentic-ai]
 summary: Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.
 date: 2026-06-08
 ---
