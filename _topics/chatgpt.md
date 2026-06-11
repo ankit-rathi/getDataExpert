@@ -1,7 +1,7 @@
 ---
 title: How Does ChatGPT Work?
 category: GenAI
-tags: [chatgpt, llm, generative-ai, pattern-prediction, ai]
+tags: [chatgpt, llm, generative-ai, pattern-prediction, transformers, attention, tokens, context-window]
 summary: Understanding how ChatGPT learns patterns from large amounts of text and predicts the most likely next word to generate human-like responses.
 date: 2026-06-08
 ---
