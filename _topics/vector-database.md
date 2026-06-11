@@ -1,7 +1,7 @@
 ---
 title: What Are Vector Databases?
 category: GenAI
-tags: [vector-database, embeddings, semantic-search, rag, ai]
+tags: [vector-database, embeddings, semantic-search, rag, retrieval, knowledge-base, ai-search, llm]
 summary: Understanding how vector databases store meaning instead of keywords, enabling AI systems to search by semantic similarity.
 date: 2026-06-08
 ---
