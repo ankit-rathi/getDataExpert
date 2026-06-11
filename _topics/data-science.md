@@ -1,7 +1,7 @@
 ---
 title: What is Data Science?
 category: Data & AI
-tags: [data-science, analytics, machine-learning, statistics, data, insights, decision-making]
+tags: [data-science, analytics, machine-learning, statistics, data, insights, decision-making, intelligence]
 summary: Understanding how Data Science transforms raw data into insights, predictions, and better decisions by combining data, statistics, technology, and business understanding.
 date: 2026-06-08
 ---
