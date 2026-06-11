@@ -1,7 +1,7 @@
 ---
 title: What are Foundation Models?
 category: GenAI
-tags: [foundation-models, pretraining, transformers, llm, generative-ai]
+tags: [foundation-models, pretraining, transformers, llm, deep-learning, generative-ai, neural-networks, attention]
 summary: Understanding how foundation models learn general capabilities from massive amounts of data and become the base layer for modern AI applications.
 date: 2026-06-08
 ---
