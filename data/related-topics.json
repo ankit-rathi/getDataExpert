@@ -1,4 +1,12 @@
 {
+  "multi-agent-systems": [
+    "ai-agents",
+    "ai-and-jobs",
+    "artificial-intelligence",
+    "intelligence-loop",
+    "mcp",
+    "tool-calling"
+  ],
   "llm": [
     "ai-agents",
     "ai-and-jobs",
@@ -26,6 +34,7 @@
     "ai-and-jobs",
     "artificial-intelligence",
     "intelligence-loop",
+    "multi-agent-systems",
     "tool-calling"
   ],
   "deep-learning": [
@@ -158,6 +167,7 @@
     "intelligence-loop",
     "llm",
     "mcp",
+    "multi-agent-systems",
     "prompt-engineering",
     "rag",
     "semantic-search",
@@ -219,6 +229,7 @@
     "intelligence-loop",
     "llm",
     "mcp",
+    "multi-agent-systems",
     "prompt-engineering",
     "tokens",
     "tool-calling",
@@ -312,6 +323,7 @@
     "intelligence",
     "machine-learning",
     "mcp",
+    "multi-agent-systems",
     "tool-calling"
   ],
   "artificial-intelligence": [
@@ -326,6 +338,7 @@
     "intelligence-loop",
     "machine-learning",
     "mcp",
+    "multi-agent-systems",
     "neural-networks",
     "prompt-engineering",
     "rag",
@@ -483,6 +496,7 @@
     "intelligence-loop",
     "llm",
     "mcp",
+    "multi-agent-systems",
     "prompt-engineering",
     "rag",
     "semantic-search",

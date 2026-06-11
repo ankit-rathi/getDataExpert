@@ -1,5 +1,22 @@
 [
   {
+    "title": "What are Multi-Agent Systems?",
+    "category": "GenAI",
+    "tags": [
+      "multi-agent-systems",
+      "ai-agents",
+      "planning",
+      "reasoning",
+      "coordination",
+      "agentic-ai",
+      "automation",
+      "tool-calling"
+    ],
+    "summary": "Understanding how multiple specialized AI agents collaborate, coordinate, and share work to solve complex problems more effectively than a single agent.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/multi-agent-systems/"
+  },
+  {
     "title": "Large Language Models",
     "category": "GenAI",
     "tags": [
