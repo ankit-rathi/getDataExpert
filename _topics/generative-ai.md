@@ -1,7 +1,7 @@
 ---
 title: What is Generative AI?
 category: GenAI
-tags: [generative-ai, llm, ai, machine-learning, content-generation]
+tags: [generative-ai, llm, transformers, foundation-models, content-generation, machine-learning, ai, deep-learning]
 summary: Understanding how Generative AI learns patterns from data and creates new content such as text, images, code, audio, and conversations.
 date: 2026-06-08
 ---
