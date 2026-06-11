@@ -16,7 +16,8 @@
     "rag",
     "semantic-search",
     "tokens",
-    "transformers"
+    "transformers",
+    "vector-database"
   ],
   "deep-learning": [
     "artificial-intelligence",
@@ -33,23 +34,23 @@
     "prompt-engineering",
     "rag",
     "tokens",
-    "transformers",
-    "vector-database"
+    "transformers"
   ],
   "vector-database": [
+    "ai-agents",
     "ai-hallucinations",
     "ai-memory",
-    "artificial-intelligence",
+    "attention",
+    "chatgpt",
     "context-window",
-    "data",
-    "deep-learning",
+    "foundation-models",
     "generative-ai",
-    "machine-learning",
-    "neural-networks",
+    "llm",
     "prompt-engineering",
     "rag",
     "semantic-search",
-    "tokens"
+    "tokens",
+    "transformers"
   ],
   "neural-networks": [
     "artificial-intelligence",
@@ -63,8 +64,7 @@
     "machine-learning",
     "prompt-engineering",
     "rag",
-    "transformers",
-    "vector-database"
+    "transformers"
   ],
   "ai-memory": [
     "ai-agents",
@@ -99,7 +99,8 @@
     "prompt-engineering",
     "rag",
     "semantic-search",
-    "tokens"
+    "tokens",
+    "vector-database"
   ],
   "rag": [
     "ai-agents",
@@ -138,8 +139,7 @@
     "neural-networks",
     "prompt-engineering",
     "rag",
-    "transformers",
-    "vector-database"
+    "transformers"
   ],
   "information": [
     "artificial-intelligence",
@@ -202,7 +202,8 @@
     "rag",
     "semantic-search",
     "tokens",
-    "transformers"
+    "transformers",
+    "vector-database"
   ],
   "data": [
     "artificial-intelligence",
@@ -215,8 +216,7 @@
     "machine-learning",
     "neural-networks",
     "prompt-engineering",
-    "rag",
-    "vector-database"
+    "rag"
   ],
   "semantic-search": [
     "ai-agents",
@@ -257,8 +257,7 @@
     "machine-learning",
     "neural-networks",
     "prompt-engineering",
-    "rag",
-    "vector-database"
+    "rag"
   ],
   "tokens": [
     "ai-agents",
@@ -312,7 +311,8 @@
     "rag",
     "semantic-search",
     "tokens",
-    "transformers"
+    "transformers",
+    "vector-database"
   ],
   "prompt-engineering": [
     "ai-agents",
@@ -379,7 +379,8 @@
     "rag",
     "semantic-search",
     "tokens",
-    "transformers"
+    "transformers",
+    "vector-database"
   ],
   "ai-agents": [
     "ai-and-jobs",
@@ -397,7 +398,8 @@
     "rag",
     "semantic-search",
     "tokens",
-    "transformers"
+    "transformers",
+    "vector-database"
   ],
   "intelligence": [
     "artificial-intelligence",
