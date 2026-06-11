@@ -145,6 +145,7 @@
   "ai-and-jobs": [
     "ai-agents",
     "ai-hallucinations",
+    "artificial-intelligence",
     "chatgpt",
     "foundation-models",
     "generative-ai",
@@ -236,6 +237,8 @@
     "machine-learning"
   ],
   "artificial-intelligence": [
+    "ai-agents",
+    "ai-and-jobs",
     "data",
     "data-science",
     "deep-learning",
@@ -372,6 +375,7 @@
     "ai-and-jobs",
     "ai-hallucinations",
     "ai-memory",
+    "artificial-intelligence",
     "attention",
     "chatgpt",
     "context-window",
