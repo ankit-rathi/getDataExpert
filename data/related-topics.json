@@ -27,6 +27,7 @@
     "llm",
     "machine-learning",
     "neural-networks",
+    "prompt-engineering",
     "rag",
     "tokens",
     "transformers",
@@ -41,6 +42,7 @@
     "generative-ai",
     "machine-learning",
     "neural-networks",
+    "prompt-engineering",
     "rag",
     "semantic-search",
     "tokens"
@@ -53,6 +55,7 @@
     "deep-learning",
     "generative-ai",
     "machine-learning",
+    "prompt-engineering",
     "rag",
     "transformers",
     "vector-database"
@@ -123,6 +126,7 @@
     "intelligence",
     "intelligence-loop",
     "neural-networks",
+    "prompt-engineering",
     "rag",
     "vector-database"
   ],
@@ -141,6 +145,7 @@
     "foundation-models",
     "generative-ai",
     "intelligence-loop",
+    "prompt-engineering",
     "tokens",
     "transformers"
   ],
@@ -193,6 +198,7 @@
     "intelligence-loop",
     "machine-learning",
     "neural-networks",
+    "prompt-engineering",
     "rag",
     "vector-database"
   ],
@@ -232,6 +238,7 @@
     "intelligence-loop",
     "machine-learning",
     "neural-networks",
+    "prompt-engineering",
     "rag",
     "vector-database"
   ],
@@ -290,18 +297,25 @@
   ],
   "prompt-engineering": [
     "ai-agents",
+    "ai-and-jobs",
     "ai-hallucinations",
     "ai-memory",
+    "artificial-intelligence",
     "attention",
     "chatgpt",
     "context-window",
+    "data",
+    "deep-learning",
     "foundation-models",
     "generative-ai",
     "llm",
+    "machine-learning",
+    "neural-networks",
     "rag",
     "semantic-search",
     "tokens",
-    "transformers"
+    "transformers",
+    "vector-database"
   ],
   "context-window": [
     "ai-agents",
