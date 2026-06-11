@@ -423,6 +423,23 @@
     "url": "/sketch-intelligence/topics/context-window/"
   },
   {
+    "title": "What are AI-Native Organizations?",
+    "category": "GenAI",
+    "tags": [
+      "ai-native-organizations",
+      "ai-agents",
+      "intelligence-products",
+      "automation",
+      "agentic-ai",
+      "human-ai-collaboration",
+      "intelligence-loop",
+      "collective-intelligence"
+    ],
+    "summary": "Understanding how organizations redesign themselves around continuous intelligence loops, where humans and AI work together to learn, decide, and improve faster.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/ai-native-organizations/"
+  },
+  {
     "title": "What is Data Science?",
     "category": "Data & AI",
     "tags": [

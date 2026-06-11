@@ -2,6 +2,7 @@
   "multi-agent-systems": [
     "ai-agents",
     "ai-and-jobs",
+    "ai-native-organizations",
     "artificial-intelligence",
     "intelligence-loop",
     "mcp",
@@ -32,6 +33,7 @@
   "mcp": [
     "ai-agents",
     "ai-and-jobs",
+    "ai-native-organizations",
     "artificial-intelligence",
     "intelligence-loop",
     "multi-agent-systems",
@@ -158,6 +160,7 @@
     "ai-evaluation",
     "ai-hallucinations",
     "ai-memory",
+    "ai-native-organizations",
     "artificial-intelligence",
     "attention",
     "chatgpt",
@@ -222,6 +225,7 @@
   "ai-and-jobs": [
     "ai-agents",
     "ai-hallucinations",
+    "ai-native-organizations",
     "artificial-intelligence",
     "chatgpt",
     "foundation-models",
@@ -316,6 +320,7 @@
   "intelligence-loop": [
     "ai-agents",
     "ai-and-jobs",
+    "ai-native-organizations",
     "artificial-intelligence",
     "data",
     "data-science",
@@ -329,6 +334,7 @@
   "artificial-intelligence": [
     "ai-agents",
     "ai-and-jobs",
+    "ai-native-organizations",
     "data",
     "data-science",
     "deep-learning",
@@ -450,6 +456,15 @@
     "transformers",
     "vector-database"
   ],
+  "ai-native-organizations": [
+    "ai-agents",
+    "ai-and-jobs",
+    "artificial-intelligence",
+    "intelligence-loop",
+    "mcp",
+    "multi-agent-systems",
+    "tool-calling"
+  ],
   "data-science": [
     "artificial-intelligence",
     "data",
@@ -487,6 +502,7 @@
     "ai-evaluation",
     "ai-hallucinations",
     "ai-memory",
+    "ai-native-organizations",
     "artificial-intelligence",
     "attention",
     "chatgpt",
