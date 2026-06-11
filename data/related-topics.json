@@ -21,6 +21,13 @@
     "transformers",
     "vector-database"
   ],
+  "mcp": [
+    "ai-agents",
+    "ai-and-jobs",
+    "artificial-intelligence",
+    "intelligence-loop",
+    "tool-calling"
+  ],
   "deep-learning": [
     "artificial-intelligence",
     "attention",
@@ -150,6 +157,7 @@
     "generative-ai",
     "intelligence-loop",
     "llm",
+    "mcp",
     "prompt-engineering",
     "rag",
     "semantic-search",
@@ -210,6 +218,7 @@
     "generative-ai",
     "intelligence-loop",
     "llm",
+    "mcp",
     "prompt-engineering",
     "tokens",
     "tool-calling",
@@ -302,6 +311,7 @@
     "information",
     "intelligence",
     "machine-learning",
+    "mcp",
     "tool-calling"
   ],
   "artificial-intelligence": [
@@ -315,6 +325,7 @@
     "intelligence",
     "intelligence-loop",
     "machine-learning",
+    "mcp",
     "neural-networks",
     "prompt-engineering",
     "rag",
@@ -471,6 +482,7 @@
     "generative-ai",
     "intelligence-loop",
     "llm",
+    "mcp",
     "prompt-engineering",
     "rag",
     "semantic-search",

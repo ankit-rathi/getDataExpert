@@ -17,6 +17,23 @@
     "url": "/sketch-intelligence/topics/llm/"
   },
   {
+    "title": "What is MCP?",
+    "category": "GenAI",
+    "tags": [
+      "mcp",
+      "ai-agents",
+      "tool-calling",
+      "APIs",
+      "automation",
+      "reasoning",
+      "multi-agent-systems",
+      "agentic-ai"
+    ],
+    "summary": "Understanding how the Model Context Protocol (MCP) provides a standard way for AI agents to discover, connect, and interact with external tools and systems.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/mcp/"
+  },
+  {
     "title": "What is Deep Learning?",
     "category": "GenAI",
     "tags": [
