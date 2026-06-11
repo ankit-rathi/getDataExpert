@@ -1,7 +1,7 @@
 ---
 title: What is Deep Learning?
 category: GenAI
-tags: [deep-learning, neural-networks, machine-learning, ai, pattern-learning, foundation-models]
+tags: [deep-learning, neural-networks, machine-learning, ai, pattern-learning, representation-learning, transformers, foundation-models]
 summary: Understanding how deep learning enables machines to automatically learn complex patterns from data using multiple layers of neural networks.
 date: 2026-06-08
 ---
