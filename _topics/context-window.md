@@ -1,7 +1,7 @@
 ---
 title: What is a Context Window?
 category: GenAI
-tags: [context-window, llm, attention, tokens, memory, transformers]
+tags: [context-window, llm, attention, tokens, memory, transformers, rag, prompt-engineering]
 summary: Understanding how the context window acts as an AI model's temporary working memory, determining how much information it can consider at one time.
 date: 2026-06-08
 ---
