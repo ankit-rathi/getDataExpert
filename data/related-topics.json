@@ -73,6 +73,7 @@
   ],
   "transformers": [
     "ai-agents",
+    "ai-and-jobs",
     "ai-hallucinations",
     "ai-memory",
     "attention",
@@ -134,10 +135,17 @@
   ],
   "ai-and-jobs": [
     "ai-agents",
-    "intelligence-loop"
+    "ai-hallucinations",
+    "chatgpt",
+    "foundation-models",
+    "generative-ai",
+    "intelligence-loop",
+    "tokens",
+    "transformers"
   ],
   "generative-ai": [
     "ai-agents",
+    "ai-and-jobs",
     "ai-hallucinations",
     "ai-memory",
     "artificial-intelligence",
@@ -160,6 +168,7 @@
   ],
   "foundation-models": [
     "ai-agents",
+    "ai-and-jobs",
     "ai-hallucinations",
     "ai-memory",
     "attention",
@@ -229,6 +238,7 @@
   ],
   "tokens": [
     "ai-agents",
+    "ai-and-jobs",
     "ai-hallucinations",
     "ai-memory",
     "attention",
@@ -245,6 +255,7 @@
   ],
   "ai-hallucinations": [
     "ai-agents",
+    "ai-and-jobs",
     "ai-memory",
     "attention",
     "chatgpt",
@@ -320,6 +331,7 @@
   ],
   "chatgpt": [
     "ai-agents",
+    "ai-and-jobs",
     "ai-hallucinations",
     "ai-memory",
     "artificial-intelligence",
