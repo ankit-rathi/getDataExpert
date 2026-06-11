@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 category: GenAI
-tags: [llm, prompts, instructions]
+tags: [prompt-engineering, prompts, instructions, llm, context-window, chatgpt, generative-ai, ai]
 summary: Understanding how prompt engineering helps users communicate effectively with AI to obtain better outputs.
 date: 2026-06-08
 ---
