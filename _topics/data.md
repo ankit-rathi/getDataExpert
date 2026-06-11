@@ -1,7 +1,7 @@
 ---
 title: What Is Data?
 category: Data Fundamentals
-tags: [data, data-collection, digital-footprints, analytics, ai]
+tags: [data, observations, information, data-collection, digital-footprints, analytics, ai, intelligence]
 summary: Understanding how everyday actions become data and why data is the foundation for analytics, machine learning, and artificial intelligence.
 date: 2026-06-08
 ---
