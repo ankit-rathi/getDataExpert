@@ -55,6 +55,8 @@
   "neural-networks": [
     "artificial-intelligence",
     "attention",
+    "chatgpt",
+    "context-window",
     "data",
     "data-science",
     "deep-learning",
@@ -64,6 +66,7 @@
     "machine-learning",
     "prompt-engineering",
     "rag",
+    "tokens",
     "transformers"
   ],
   "ai-memory": [
@@ -271,6 +274,7 @@
     "foundation-models",
     "generative-ai",
     "llm",
+    "neural-networks",
     "prompt-engineering",
     "rag",
     "semantic-search",
@@ -346,6 +350,7 @@
     "foundation-models",
     "generative-ai",
     "llm",
+    "neural-networks",
     "prompt-engineering",
     "rag",
     "semantic-search",
@@ -375,6 +380,7 @@
     "foundation-models",
     "generative-ai",
     "llm",
+    "neural-networks",
     "prompt-engineering",
     "rag",
     "semantic-search",
