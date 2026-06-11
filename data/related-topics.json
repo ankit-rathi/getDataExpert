@@ -1,6 +1,7 @@
 {
   "llm": [
     "ai-agents",
+    "ai-and-jobs",
     "ai-hallucinations",
     "ai-memory",
     "attention",
@@ -9,6 +10,7 @@
     "deep-learning",
     "foundation-models",
     "generative-ai",
+    "neural-networks",
     "prompt-engineering",
     "rag",
     "semantic-search",
@@ -55,6 +57,7 @@
     "deep-learning",
     "foundation-models",
     "generative-ai",
+    "llm",
     "machine-learning",
     "prompt-engineering",
     "rag",
@@ -146,6 +149,7 @@
     "foundation-models",
     "generative-ai",
     "intelligence-loop",
+    "llm",
     "prompt-engineering",
     "tokens",
     "transformers"
