@@ -1,275 +1,5 @@
 [
   {
-    "title": "What is RAG?",
-    "category": "GenAI",
-    "tags": [
-      "rag",
-      "retrieval",
-      "knowledge-base",
-      "llm",
-      "semantic-search",
-      "vector-database",
-      "embeddings",
-      "ai"
-    ],
-    "summary": "Understanding how Retrieval-Augmented Generation (RAG) helps AI retrieve relevant information before generating answers.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/rag/"
-  },
-  {
-    "title": "What are Tokens?",
-    "category": "GenAI",
-    "tags": [
-      "tokens",
-      "tokenization",
-      "llm",
-      "transformers",
-      "attention",
-      "context-window",
-      "embeddings",
-      "generative-ai"
-    ],
-    "summary": "Understanding how tokens act as the basic building blocks processed by large language models.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/tokens/"
-  },
-  {
-    "title": "What Is The Intelligence Loop?",
-    "category": "Foundations",
-    "tags": [
-      "intelligence-loop",
-      "feedback-loops",
-      "learning",
-      "decision-making",
-      "systems-thinking",
-      "intelligence",
-      "data",
-      "automation"
-    ],
-    "summary": "Understanding how intelligence emerges through a continuous cycle of observation, understanding, decision-making, action, and learning.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/intelligence-loop/"
-  },
-  {
-    "title": "Why Does AI Hallucinate?",
-    "category": "GenAI",
-    "tags": [
-      "ai-hallucinations",
-      "llm",
-      "generative-ai",
-      "prediction",
-      "reliability",
-      "rag",
-      "knowledge-base",
-      "context-window"
-    ],
-    "summary": "Understanding why AI systems sometimes generate incorrect or fabricated answers and how modern AI systems reduce hallucinations.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/ai-hallucinations/"
-  },
-  {
-    "title": "What is Semantic Search?",
-    "category": "GenAI",
-    "tags": [
-      "semantic-search",
-      "vector-database",
-      "embeddings",
-      "rag",
-      "retrieval",
-      "ai-search",
-      "knowledge-base",
-      "llm"
-    ],
-    "summary": "Understanding how semantic search finds information by meaning rather than exact keyword matching, enabling more intelligent AI retrieval systems.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/semantic-search/"
-  },
-  {
-    "title": "Will AI Replace Jobs?",
-    "category": "GenAI",
-    "tags": [
-      "ai-and-jobs",
-      "future-of-work",
-      "automation",
-      "productivity",
-      "ai-agents",
-      "generative-ai",
-      "human-ai-collaboration",
-      "workflows"
-    ],
-    "summary": "Understanding how AI is changing work by automating tasks, augmenting human capabilities, and reshaping workflows rather than simply replacing jobs.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/ai-and-jobs/"
-  },
-  {
-    "title": "What is Deep Learning?",
-    "category": "GenAI",
-    "tags": [
-      "deep-learning",
-      "neural-networks",
-      "machine-learning",
-      "ai",
-      "pattern-learning",
-      "representation-learning",
-      "transformers",
-      "foundation-models"
-    ],
-    "summary": "Understanding how deep learning enables machines to automatically learn complex patterns from data using multiple layers of neural networks.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/deep-learning/"
-  },
-  {
-    "title": "What is AI Memory?",
-    "category": "GenAI",
-    "tags": [
-      "ai-memory",
-      "rag",
-      "vector-database",
-      "context",
-      "personalization",
-      "llm"
-    ],
-    "summary": "Understanding how AI memory enables systems to remember information, maintain continuity, personalize interactions, and improve intelligence over time.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/ai-memory/"
-  },
-  {
-    "title": "What is Attention?",
-    "category": "GenAI",
-    "tags": [
-      "attention",
-      "transformers",
-      "llm",
-      "deep-learning",
-      "context-window",
-      "tokens",
-      "neural-networks",
-      "foundation-models"
-    ],
-    "summary": "Understanding how attention helps AI focus on the most relevant information, enabling better understanding of language, context, and long documents.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/attention/"
-  },
-  {
-    "title": "How Does ChatGPT Work?",
-    "category": "GenAI",
-    "tags": [
-      "chatgpt",
-      "llm",
-      "generative-ai",
-      "pattern-prediction",
-      "transformers",
-      "attention",
-      "tokens",
-      "context-window"
-    ],
-    "summary": "Understanding how ChatGPT learns patterns from large amounts of text and predicts the most likely next word to generate human-like responses.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/chatgpt/"
-  },
-  {
-    "title": "What Is Information?",
-    "category": "Foundations",
-    "tags": [
-      "information",
-      "data",
-      "uncertainty",
-      "knowledge",
-      "intelligence",
-      "decision-making",
-      "analytics",
-      "systems-thinking"
-    ],
-    "summary": "Understanding how information reduces uncertainty and helps humans, organizations, and AI systems make better decisions.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/information/"
-  },
-  {
-    "title": "What are AI Agents?",
-    "category": "GenAI",
-    "tags": [
-      "ai-agents",
-      "llm",
-      "tools",
-      "planning",
-      "automation",
-      "memory",
-      "reasoning",
-      "agentic-ai"
-    ],
-    "summary": "Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/ai-agents/"
-  },
-  {
-    "title": "Prompt Engineering",
-    "category": "GenAI",
-    "tags": [
-      "prompt-engineering",
-      "prompts",
-      "instructions",
-      "llm",
-      "context-window",
-      "chatgpt",
-      "generative-ai",
-      "ai"
-    ],
-    "summary": "Understanding how prompt engineering helps users communicate effectively with AI to obtain better outputs.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/prompt-engineering/"
-  },
-  {
-    "title": "What are Foundation Models?",
-    "category": "GenAI",
-    "tags": [
-      "foundation-models",
-      "pretraining",
-      "transformers",
-      "llm",
-      "deep-learning",
-      "generative-ai",
-      "neural-networks",
-      "attention"
-    ],
-    "summary": "Understanding how foundation models learn general capabilities from massive amounts of data and become the base layer for modern AI applications.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/foundation-models/"
-  },
-  {
-    "title": "What is Data Science?",
-    "category": "Data & AI",
-    "tags": [
-      "data-science",
-      "analytics",
-      "machine-learning",
-      "statistics",
-      "data",
-      "insights",
-      "decision-making",
-      "intelligence"
-    ],
-    "summary": "Understanding how Data Science transforms raw data into insights, predictions, and better decisions by combining data, statistics, technology, and business understanding.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/data-science/"
-  },
-  {
-    "title": "What is Generative AI?",
-    "category": "GenAI",
-    "tags": [
-      "generative-ai",
-      "llm",
-      "transformers",
-      "foundation-models",
-      "content-generation",
-      "machine-learning",
-      "ai",
-      "deep-learning"
-    ],
-    "summary": "Understanding how Generative AI learns patterns from data and creates new content such as text, images, code, audio, and conversations.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/generative-ai/"
-  },
-  {
     "title": "Large Language Models",
     "category": "GenAI",
     "tags": [
@@ -287,99 +17,21 @@
     "url": "/sketch-intelligence/topics/llm/"
   },
   {
-    "title": "What Is Intelligence?",
-    "category": "Foundations",
-    "tags": [
-      "intelligence",
-      "decision-making",
-      "uncertainty",
-      "information",
-      "data",
-      "learning",
-      "patterns",
-      "systems-thinking"
-    ],
-    "summary": "Understanding how intelligence reduces uncertainty by turning observations into patterns, patterns into decisions, and decisions into better outcomes.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/intelligence/"
-  },
-  {
-    "title": "What is Artificial Intelligence?",
+    "title": "What is Deep Learning?",
     "category": "GenAI",
     "tags": [
-      "artificial-intelligence",
-      "ai",
-      "machine-learning",
-      "intelligence",
-      "decision-making",
-      "patterns",
-      "automation",
-      "learning"
-    ],
-    "summary": "Understanding how artificial intelligence enables machines to learn patterns, make predictions, and perform tasks that traditionally required human intelligence.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/artificial-intelligence/"
-  },
-  {
-    "title": "What Is Data?",
-    "category": "Data Fundamentals",
-    "tags": [
-      "data",
-      "observations",
-      "information",
-      "data-collection",
-      "digital-footprints",
-      "analytics",
-      "ai",
-      "intelligence"
-    ],
-    "summary": "Understanding how everyday actions become data and why data is the foundation for analytics, machine learning, and artificial intelligence.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/data/"
-  },
-  {
-    "title": "What are Transformers?",
-    "category": "GenAI",
-    "tags": [
-      "transformers",
-      "attention",
-      "llm",
       "deep-learning",
-      "generative-ai"
-    ],
-    "summary": "Understanding how transformers use attention mechanisms to focus on relevant information, making modern AI systems like ChatGPT possible.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/transformers/"
-  },
-  {
-    "title": "What is Machine Learning?",
-    "category": "GenAI",
-    "tags": [
+      "neural-networks",
       "machine-learning",
       "ai",
-      "patterns",
-      "prediction",
-      "data",
-      "supervised-learning"
+      "pattern-learning",
+      "representation-learning",
+      "transformers",
+      "foundation-models"
     ],
-    "summary": "Understanding how machines learn patterns from data to make predictions, decisions, and improve automatically without being explicitly programmed.",
+    "summary": "Understanding how deep learning enables machines to automatically learn complex patterns from data using multiple layers of neural networks.",
     "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/machine-learning/"
-  },
-  {
-    "title": "What is a Context Window?",
-    "category": "GenAI",
-    "tags": [
-      "context-window",
-      "llm",
-      "attention",
-      "tokens",
-      "memory",
-      "transformers"
-    ],
-    "summary": "Understanding how the context window acts as an AI model's temporary working memory, determining how much information it can consider at one time.",
-    "date": "2026-06-08",
-    "url": "/sketch-intelligence/topics/context-window/"
+    "url": "/sketch-intelligence/topics/deep-learning/"
   },
   {
     "title": "What Are Vector Databases?",
@@ -408,5 +60,356 @@
     "summary": "Understanding how neural networks learn patterns from data through interconnected artificial neurons, forming the foundation of modern AI systems.",
     "date": "2026-06-08",
     "url": "/sketch-intelligence/topics/neural-networks/"
+  },
+  {
+    "title": "What is AI Memory?",
+    "category": "GenAI",
+    "tags": [
+      "ai-memory",
+      "rag",
+      "vector-database",
+      "context",
+      "personalization",
+      "llm"
+    ],
+    "summary": "Understanding how AI memory enables systems to remember information, maintain continuity, personalize interactions, and improve intelligence over time.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/ai-memory/"
+  },
+  {
+    "title": "What are Transformers?",
+    "category": "GenAI",
+    "tags": [
+      "transformers",
+      "attention",
+      "llm",
+      "deep-learning",
+      "foundation-models",
+      "generative-ai",
+      "tokens",
+      "context-window"
+    ],
+    "summary": "Understanding how transformers use attention mechanisms to focus on relevant information, making modern AI systems like ChatGPT possible.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/transformers/"
+  },
+  {
+    "title": "What is RAG?",
+    "category": "GenAI",
+    "tags": [
+      "rag",
+      "retrieval",
+      "knowledge-base",
+      "llm",
+      "semantic-search",
+      "vector-database",
+      "embeddings",
+      "ai"
+    ],
+    "summary": "Understanding how Retrieval-Augmented Generation (RAG) helps AI retrieve relevant information before generating answers.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/rag/"
+  },
+  {
+    "title": "What is Machine Learning?",
+    "category": "GenAI",
+    "tags": [
+      "machine-learning",
+      "ai",
+      "patterns",
+      "prediction",
+      "data",
+      "supervised-learning"
+    ],
+    "summary": "Understanding how machines learn patterns from data to make predictions, decisions, and improve automatically without being explicitly programmed.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/machine-learning/"
+  },
+  {
+    "title": "What Is Information?",
+    "category": "Foundations",
+    "tags": [
+      "information",
+      "data",
+      "uncertainty",
+      "knowledge",
+      "intelligence",
+      "decision-making",
+      "analytics",
+      "systems-thinking"
+    ],
+    "summary": "Understanding how information reduces uncertainty and helps humans, organizations, and AI systems make better decisions.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/information/"
+  },
+  {
+    "title": "Will AI Replace Jobs?",
+    "category": "GenAI",
+    "tags": [
+      "ai-and-jobs",
+      "future-of-work",
+      "automation",
+      "productivity",
+      "ai-agents",
+      "generative-ai",
+      "human-ai-collaboration",
+      "workflows"
+    ],
+    "summary": "Understanding how AI is changing work by automating tasks, augmenting human capabilities, and reshaping workflows rather than simply replacing jobs.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/ai-and-jobs/"
+  },
+  {
+    "title": "What is Generative AI?",
+    "category": "GenAI",
+    "tags": [
+      "generative-ai",
+      "llm",
+      "transformers",
+      "foundation-models",
+      "content-generation",
+      "machine-learning",
+      "ai",
+      "deep-learning"
+    ],
+    "summary": "Understanding how Generative AI learns patterns from data and creates new content such as text, images, code, audio, and conversations.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/generative-ai/"
+  },
+  {
+    "title": "What are Foundation Models?",
+    "category": "GenAI",
+    "tags": [
+      "foundation-models",
+      "pretraining",
+      "transformers",
+      "llm",
+      "deep-learning",
+      "generative-ai",
+      "neural-networks",
+      "attention"
+    ],
+    "summary": "Understanding how foundation models learn general capabilities from massive amounts of data and become the base layer for modern AI applications.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/foundation-models/"
+  },
+  {
+    "title": "What Is Data?",
+    "category": "Data Fundamentals",
+    "tags": [
+      "data",
+      "observations",
+      "information",
+      "data-collection",
+      "digital-footprints",
+      "analytics",
+      "ai",
+      "intelligence"
+    ],
+    "summary": "Understanding how everyday actions become data and why data is the foundation for analytics, machine learning, and artificial intelligence.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/data/"
+  },
+  {
+    "title": "What is Semantic Search?",
+    "category": "GenAI",
+    "tags": [
+      "semantic-search",
+      "vector-database",
+      "embeddings",
+      "rag",
+      "retrieval",
+      "ai-search",
+      "knowledge-base",
+      "llm"
+    ],
+    "summary": "Understanding how semantic search finds information by meaning rather than exact keyword matching, enabling more intelligent AI retrieval systems.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/semantic-search/"
+  },
+  {
+    "title": "What Is The Intelligence Loop?",
+    "category": "Foundations",
+    "tags": [
+      "intelligence-loop",
+      "feedback-loops",
+      "learning",
+      "decision-making",
+      "systems-thinking",
+      "intelligence",
+      "data",
+      "automation"
+    ],
+    "summary": "Understanding how intelligence emerges through a continuous cycle of observation, understanding, decision-making, action, and learning.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/intelligence-loop/"
+  },
+  {
+    "title": "What is Artificial Intelligence?",
+    "category": "GenAI",
+    "tags": [
+      "artificial-intelligence",
+      "ai",
+      "machine-learning",
+      "intelligence",
+      "decision-making",
+      "patterns",
+      "automation",
+      "learning"
+    ],
+    "summary": "Understanding how artificial intelligence enables machines to learn patterns, make predictions, and perform tasks that traditionally required human intelligence.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/artificial-intelligence/"
+  },
+  {
+    "title": "What are Tokens?",
+    "category": "GenAI",
+    "tags": [
+      "tokens",
+      "tokenization",
+      "llm",
+      "transformers",
+      "attention",
+      "context-window",
+      "embeddings",
+      "generative-ai"
+    ],
+    "summary": "Understanding how tokens act as the basic building blocks processed by large language models.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/tokens/"
+  },
+  {
+    "title": "Why Does AI Hallucinate?",
+    "category": "GenAI",
+    "tags": [
+      "ai-hallucinations",
+      "llm",
+      "generative-ai",
+      "prediction",
+      "reliability",
+      "rag",
+      "knowledge-base",
+      "context-window"
+    ],
+    "summary": "Understanding why AI systems sometimes generate incorrect or fabricated answers and how modern AI systems reduce hallucinations.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/ai-hallucinations/"
+  },
+  {
+    "title": "What is Attention?",
+    "category": "GenAI",
+    "tags": [
+      "attention",
+      "transformers",
+      "llm",
+      "deep-learning",
+      "context-window",
+      "tokens",
+      "neural-networks",
+      "foundation-models"
+    ],
+    "summary": "Understanding how attention helps AI focus on the most relevant information, enabling better understanding of language, context, and long documents.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/attention/"
+  },
+  {
+    "title": "Prompt Engineering",
+    "category": "GenAI",
+    "tags": [
+      "prompt-engineering",
+      "prompts",
+      "instructions",
+      "llm",
+      "context-window",
+      "chatgpt",
+      "generative-ai",
+      "ai"
+    ],
+    "summary": "Understanding how prompt engineering helps users communicate effectively with AI to obtain better outputs.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/prompt-engineering/"
+  },
+  {
+    "title": "What is a Context Window?",
+    "category": "GenAI",
+    "tags": [
+      "context-window",
+      "llm",
+      "attention",
+      "tokens",
+      "memory",
+      "transformers"
+    ],
+    "summary": "Understanding how the context window acts as an AI model's temporary working memory, determining how much information it can consider at one time.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/context-window/"
+  },
+  {
+    "title": "What is Data Science?",
+    "category": "Data & AI",
+    "tags": [
+      "data-science",
+      "analytics",
+      "machine-learning",
+      "statistics",
+      "data",
+      "insights",
+      "decision-making",
+      "intelligence"
+    ],
+    "summary": "Understanding how Data Science transforms raw data into insights, predictions, and better decisions by combining data, statistics, technology, and business understanding.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/data-science/"
+  },
+  {
+    "title": "How Does ChatGPT Work?",
+    "category": "GenAI",
+    "tags": [
+      "chatgpt",
+      "llm",
+      "generative-ai",
+      "pattern-prediction",
+      "transformers",
+      "attention",
+      "tokens",
+      "context-window"
+    ],
+    "summary": "Understanding how ChatGPT learns patterns from large amounts of text and predicts the most likely next word to generate human-like responses.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/chatgpt/"
+  },
+  {
+    "title": "What are AI Agents?",
+    "category": "GenAI",
+    "tags": [
+      "ai-agents",
+      "llm",
+      "tools",
+      "planning",
+      "automation",
+      "memory",
+      "reasoning",
+      "agentic-ai"
+    ],
+    "summary": "Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/ai-agents/"
+  },
+  {
+    "title": "What Is Intelligence?",
+    "category": "Foundations",
+    "tags": [
+      "intelligence",
+      "decision-making",
+      "uncertainty",
+      "information",
+      "data",
+      "learning",
+      "patterns",
+      "systems-thinking"
+    ],
+    "summary": "Understanding how intelligence reduces uncertainty by turning observations into patterns, patterns into decisions, and decisions into better outcomes.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/intelligence/"
   }
 ]
