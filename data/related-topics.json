@@ -17,6 +17,7 @@
     "rag",
     "semantic-search",
     "tokens",
+    "tool-calling",
     "transformers",
     "vector-database"
   ],
@@ -52,6 +53,7 @@
     "rag",
     "semantic-search",
     "tokens",
+    "tool-calling",
     "transformers"
   ],
   "neural-networks": [
@@ -85,6 +87,7 @@
     "rag",
     "semantic-search",
     "tokens",
+    "tool-calling",
     "transformers",
     "vector-database"
   ],
@@ -107,6 +110,7 @@
     "rag",
     "semantic-search",
     "tokens",
+    "tool-calling",
     "vector-database"
   ],
   "rag": [
@@ -128,6 +132,28 @@
     "prompt-engineering",
     "semantic-search",
     "tokens",
+    "tool-calling",
+    "transformers",
+    "vector-database"
+  ],
+  "tool-calling": [
+    "ai-agents",
+    "ai-and-jobs",
+    "ai-evaluation",
+    "ai-hallucinations",
+    "ai-memory",
+    "artificial-intelligence",
+    "attention",
+    "chatgpt",
+    "context-window",
+    "foundation-models",
+    "generative-ai",
+    "intelligence-loop",
+    "llm",
+    "prompt-engineering",
+    "rag",
+    "semantic-search",
+    "tokens",
     "transformers",
     "vector-database"
   ],
@@ -145,6 +171,7 @@
     "rag",
     "semantic-search",
     "tokens",
+    "tool-calling",
     "transformers",
     "vector-database"
   ],
@@ -185,6 +212,7 @@
     "llm",
     "prompt-engineering",
     "tokens",
+    "tool-calling",
     "transformers"
   ],
   "generative-ai": [
@@ -208,6 +236,7 @@
     "rag",
     "semantic-search",
     "tokens",
+    "tool-calling",
     "transformers",
     "vector-database"
   ],
@@ -229,6 +258,7 @@
     "rag",
     "semantic-search",
     "tokens",
+    "tool-calling",
     "transformers",
     "vector-database"
   ],
@@ -259,6 +289,7 @@
     "prompt-engineering",
     "rag",
     "tokens",
+    "tool-calling",
     "transformers",
     "vector-database"
   ],
@@ -270,7 +301,8 @@
     "data-science",
     "information",
     "intelligence",
-    "machine-learning"
+    "machine-learning",
+    "tool-calling"
   ],
   "artificial-intelligence": [
     "ai-agents",
@@ -285,7 +317,8 @@
     "machine-learning",
     "neural-networks",
     "prompt-engineering",
-    "rag"
+    "rag",
+    "tool-calling"
   ],
   "tokens": [
     "ai-agents",
@@ -304,6 +337,7 @@
     "prompt-engineering",
     "rag",
     "semantic-search",
+    "tool-calling",
     "transformers",
     "vector-database"
   ],
@@ -323,6 +357,7 @@
     "rag",
     "semantic-search",
     "tokens",
+    "tool-calling",
     "transformers",
     "vector-database"
   ],
@@ -343,6 +378,7 @@
     "rag",
     "semantic-search",
     "tokens",
+    "tool-calling",
     "transformers",
     "vector-database"
   ],
@@ -366,6 +402,7 @@
     "rag",
     "semantic-search",
     "tokens",
+    "tool-calling",
     "transformers",
     "vector-database"
   ],
@@ -385,6 +422,7 @@
     "rag",
     "semantic-search",
     "tokens",
+    "tool-calling",
     "transformers",
     "vector-database"
   ],
@@ -416,6 +454,7 @@
     "rag",
     "semantic-search",
     "tokens",
+    "tool-calling",
     "transformers",
     "vector-database"
   ],
@@ -436,6 +475,7 @@
     "rag",
     "semantic-search",
     "tokens",
+    "tool-calling",
     "transformers",
     "vector-database"
   ],

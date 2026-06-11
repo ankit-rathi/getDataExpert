@@ -117,6 +117,23 @@
     "url": "/sketch-intelligence/topics/rag/"
   },
   {
+    "title": "What is Tool Calling?",
+    "category": "GenAI",
+    "tags": [
+      "tool-calling",
+      "ai-agents",
+      "llm",
+      "reasoning",
+      "automation",
+      "APIs",
+      "planning",
+      "agentic-ai"
+    ],
+    "summary": "Understanding how AI systems use external tools, APIs, and applications to move beyond conversation and perform real-world actions.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/tool-calling/"
+  },
+  {
     "title": "What is AI Evaluation?",
     "category": "GenAI",
     "tags": [
