@@ -40,6 +40,7 @@
     "ai-hallucinations",
     "ai-memory",
     "artificial-intelligence",
+    "context-window",
     "data",
     "deep-learning",
     "generative-ai",
@@ -349,7 +350,8 @@
     "rag",
     "semantic-search",
     "tokens",
-    "transformers"
+    "transformers",
+    "vector-database"
   ],
   "data-science": [
     "artificial-intelligence",
