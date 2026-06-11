@@ -122,10 +122,13 @@
     "category": "Foundations",
     "tags": [
       "information",
-      "uncertainty",
-      "decisions",
       "data",
-      "intelligence"
+      "uncertainty",
+      "knowledge",
+      "intelligence",
+      "decision-making",
+      "analytics",
+      "systems-thinking"
     ],
     "summary": "Understanding how information reduces uncertainty and helps humans, organizations, and AI systems make better decisions.",
     "date": "2026-06-08",
@@ -353,10 +356,14 @@
     "title": "What are AI Agents?",
     "category": "GenAI",
     "tags": [
+      "ai-agents",
       "llm",
       "tools",
       "planning",
-      "automation"
+      "automation",
+      "memory",
+      "reasoning",
+      "agentic-ai"
     ],
     "summary": "Understanding how AI agents combine reasoning, memory, tools, and actions to accomplish tasks autonomously.",
     "date": "2026-06-08",
