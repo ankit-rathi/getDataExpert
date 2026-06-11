@@ -1,7 +1,7 @@
 ---
 title: Will AI Replace Jobs?
 category: GenAI
-tags: [ai-and-jobs, future-of-work, automation, ai-tools, productivity]
+tags: [ai-and-jobs, future-of-work, automation, productivity, ai-agents, generative-ai, human-ai-collaboration, workflows]
 summary: Understanding how AI is changing work by automating tasks, augmenting human capabilities, and reshaping workflows rather than simply replacing jobs.
 date: 2026-06-08
 ---
