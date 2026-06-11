@@ -1,7 +1,7 @@
 ---
 title: What are Neural Networks?
 category: GenAI
-tags: [neural-networks, deep-learning, machine-learning, ai, pattern-learning]
+tags: [neural-networks, deep-learning, machine-learning, ai, pattern-learning, representation-learning, foundation-models, transformers]
 summary: Understanding how neural networks learn patterns from data through interconnected artificial neurons, forming the foundation of modern AI systems.
 date: 2026-06-08
 ---
