@@ -8,7 +8,7 @@ date: 2026-06-08
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/f03e85c9-3748-489f-8add-001914430247"
+    src="https://github.com/user-attachments/assets/cc943e8a-050c-4202-8376-964ff1e2da44"
     alt="What are Multi-Agent Systems?"
     style="width:100%; max-width:1200px; height:auto; border-radius:8px;"
   />
