@@ -1,7 +1,7 @@
 ---
 title: What is Artificial Intelligence?
 category: GenAI
-tags: [artificial-intelligence, ai, machine-learning, intelligence, decision-making]
+tags: [artificial-intelligence, ai, machine-learning, intelligence, decision-making, patterns, automation, learning]
 summary: Understanding how artificial intelligence enables machines to learn patterns, make predictions, and perform tasks that traditionally required human intelligence.
 date: 2026-06-08
 ---
