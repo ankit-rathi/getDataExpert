@@ -36,7 +36,6 @@
     "ai-hallucinations",
     "ai-memory",
     "artificial-intelligence",
-    "chatgpt",
     "data",
     "deep-learning",
     "generative-ai",
@@ -49,7 +48,6 @@
   "neural-networks": [
     "artificial-intelligence",
     "attention",
-    "chatgpt",
     "data",
     "data-science",
     "deep-learning",
@@ -117,7 +115,6 @@
   "machine-learning": [
     "ai-hallucinations",
     "artificial-intelligence",
-    "chatgpt",
     "data",
     "data-science",
     "deep-learning",
@@ -189,7 +186,6 @@
   ],
   "data": [
     "artificial-intelligence",
-    "chatgpt",
     "data-science",
     "deep-learning",
     "generative-ai",
@@ -227,7 +223,6 @@
     "machine-learning"
   ],
   "artificial-intelligence": [
-    "chatgpt",
     "data",
     "data-science",
     "deep-learning",
@@ -340,22 +335,17 @@
     "ai-and-jobs",
     "ai-hallucinations",
     "ai-memory",
-    "artificial-intelligence",
     "attention",
     "context-window",
-    "data",
     "deep-learning",
     "foundation-models",
     "generative-ai",
     "llm",
-    "machine-learning",
-    "neural-networks",
     "prompt-engineering",
     "rag",
     "semantic-search",
     "tokens",
-    "transformers",
-    "vector-database"
+    "transformers"
   ],
   "ai-agents": [
     "ai-and-jobs",
