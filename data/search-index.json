@@ -157,9 +157,12 @@
     "tags": [
       "generative-ai",
       "llm",
-      "ai",
+      "transformers",
+      "foundation-models",
+      "content-generation",
       "machine-learning",
-      "content-generation"
+      "ai",
+      "deep-learning"
     ],
     "summary": "Understanding how Generative AI learns patterns from data and creates new content such as text, images, code, audio, and conversations.",
     "date": "2026-06-08",
