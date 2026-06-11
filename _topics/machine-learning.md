@@ -1,7 +1,7 @@
 ---
 title: What is Machine Learning?
 category: GenAI
-tags: [machine-learning, ai, patterns, prediction, data, supervised-learning]
+tags: [machine-learning, ai, data, patterns, prediction, model-training, deep-learning, intelligence]
 summary: Understanding how machines learn patterns from data to make predictions, decisions, and improve automatically without being explicitly programmed.
 date: 2026-06-08
 ---
