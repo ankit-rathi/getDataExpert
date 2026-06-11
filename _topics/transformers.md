@@ -1,7 +1,7 @@
 ---
 title: What are Transformers?
 category: GenAI
-tags: [transformers, attention, llm, deep-learning, generative-ai]
+tags: [transformers, attention, llm, deep-learning, foundation-models, generative-ai, tokens, context-window]
 summary: Understanding how transformers use attention mechanisms to focus on relevant information, making modern AI systems like ChatGPT possible.
 date: 2026-06-08
 ---
