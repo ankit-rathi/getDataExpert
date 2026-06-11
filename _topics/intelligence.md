@@ -1,7 +1,7 @@
 ---
 title: What Is Intelligence?
 category: Foundations
-tags: [intelligence, decision-making, uncertainty, information, learning, patterns, observation, systems-thinking]
+tags: [intelligence, decision-making, uncertainty, information, data, learning, patterns, systems-thinking]
 summary: Understanding how intelligence reduces uncertainty by turning observations into patterns, patterns into decisions, and decisions into better outcomes.
 date: 2026-06-08
 ---
