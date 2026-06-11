@@ -117,6 +117,23 @@
     "url": "/sketch-intelligence/topics/rag/"
   },
   {
+    "title": "What is AI Evaluation?",
+    "category": "GenAI",
+    "tags": [
+      "ai-evaluation",
+      "llm",
+      "benchmarking",
+      "ai-quality",
+      "hallucinations",
+      "rag",
+      "trust",
+      "governance"
+    ],
+    "summary": "Understanding how AI evaluation measures the quality, reliability, accuracy, and usefulness of AI systems so they can continuously improve and earn trust.",
+    "date": "2026-06-08",
+    "url": "/sketch-intelligence/topics/ai-evaluation/"
+  },
+  {
     "title": "What is Machine Learning?",
     "category": "GenAI",
     "tags": [

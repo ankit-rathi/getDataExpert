@@ -2,6 +2,7 @@
   "llm": [
     "ai-agents",
     "ai-and-jobs",
+    "ai-evaluation",
     "ai-hallucinations",
     "ai-memory",
     "attention",
@@ -38,6 +39,7 @@
   ],
   "vector-database": [
     "ai-agents",
+    "ai-evaluation",
     "ai-hallucinations",
     "ai-memory",
     "attention",
@@ -71,6 +73,7 @@
   ],
   "ai-memory": [
     "ai-agents",
+    "ai-evaluation",
     "ai-hallucinations",
     "attention",
     "chatgpt",
@@ -88,6 +91,7 @@
   "transformers": [
     "ai-agents",
     "ai-and-jobs",
+    "ai-evaluation",
     "ai-hallucinations",
     "ai-memory",
     "attention",
@@ -107,6 +111,7 @@
   ],
   "rag": [
     "ai-agents",
+    "ai-evaluation",
     "ai-hallucinations",
     "ai-memory",
     "artificial-intelligence",
@@ -121,6 +126,23 @@
     "machine-learning",
     "neural-networks",
     "prompt-engineering",
+    "semantic-search",
+    "tokens",
+    "transformers",
+    "vector-database"
+  ],
+  "ai-evaluation": [
+    "ai-agents",
+    "ai-hallucinations",
+    "ai-memory",
+    "attention",
+    "chatgpt",
+    "context-window",
+    "foundation-models",
+    "generative-ai",
+    "llm",
+    "prompt-engineering",
+    "rag",
     "semantic-search",
     "tokens",
     "transformers",
@@ -168,6 +190,7 @@
   "generative-ai": [
     "ai-agents",
     "ai-and-jobs",
+    "ai-evaluation",
     "ai-hallucinations",
     "ai-memory",
     "artificial-intelligence",
@@ -191,6 +214,7 @@
   "foundation-models": [
     "ai-agents",
     "ai-and-jobs",
+    "ai-evaluation",
     "ai-hallucinations",
     "ai-memory",
     "attention",
@@ -223,6 +247,7 @@
   ],
   "semantic-search": [
     "ai-agents",
+    "ai-evaluation",
     "ai-hallucinations",
     "ai-memory",
     "attention",
@@ -265,6 +290,7 @@
   "tokens": [
     "ai-agents",
     "ai-and-jobs",
+    "ai-evaluation",
     "ai-hallucinations",
     "ai-memory",
     "attention",
@@ -284,6 +310,7 @@
   "ai-hallucinations": [
     "ai-agents",
     "ai-and-jobs",
+    "ai-evaluation",
     "ai-memory",
     "attention",
     "chatgpt",
@@ -301,6 +328,7 @@
   ],
   "attention": [
     "ai-agents",
+    "ai-evaluation",
     "ai-hallucinations",
     "ai-memory",
     "chatgpt",
@@ -321,6 +349,7 @@
   "prompt-engineering": [
     "ai-agents",
     "ai-and-jobs",
+    "ai-evaluation",
     "ai-hallucinations",
     "ai-memory",
     "artificial-intelligence",
@@ -342,6 +371,7 @@
   ],
   "context-window": [
     "ai-agents",
+    "ai-evaluation",
     "ai-hallucinations",
     "ai-memory",
     "attention",
@@ -372,6 +402,7 @@
   "chatgpt": [
     "ai-agents",
     "ai-and-jobs",
+    "ai-evaluation",
     "ai-hallucinations",
     "ai-memory",
     "attention",
@@ -390,6 +421,7 @@
   ],
   "ai-agents": [
     "ai-and-jobs",
+    "ai-evaluation",
     "ai-hallucinations",
     "ai-memory",
     "artificial-intelligence",
