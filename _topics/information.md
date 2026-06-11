@@ -2,7 +2,7 @@
 
 title: What Is Information?
 category: Foundations
-tags: [information, uncertainty, decisions, data, intelligence]
+tags: [information, data, uncertainty, knowledge, intelligence, decision-making, analytics, systems-thinking]
 summary: Understanding how information reduces uncertainty and helps humans, organizations, and AI systems make better decisions.
 date: 2026-06-08
 ---
