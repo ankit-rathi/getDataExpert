@@ -1,5 +1,22 @@
 [
   {
+    "title": "What is Data Governance?",
+    "category": "Data Management",
+    "tags": [
+      "data-governance",
+      "metadata",
+      "data-quality",
+      "data-ownership",
+      "data-stewardship",
+      "data-trust",
+      "compliance",
+      "intelligent-enterprise"
+    ],
+    "summary": "Understanding how organizations establish ownership, policies, standards, and controls to manage data as a trusted business asset that supports analytics, AI, compliance, and decision-making.",
+    "date": "2026-06-18",
+    "url": "/sketch-intelligence/topics/data-governance/"
+  },
+  {
     "title": "What is Data Quality?",
     "category": "Data Management",
     "tags": [

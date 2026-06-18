@@ -56,6 +56,11 @@
     "tokens",
     "transformers"
   ],
+  "data-governance": [
+    "data-management",
+    "data-quality",
+    "metadata"
+  ],
   "vector-database": [
     "ai-agents",
     "ai-evaluation",
@@ -110,6 +115,7 @@
     "vector-database"
   ],
   "data-quality": [
+    "data-governance",
     "data-management",
     "metadata"
   ],
@@ -308,6 +314,7 @@
   "data-management": [
     "ai-evaluation",
     "ai-native-organizations",
+    "data-governance",
     "data-quality",
     "intelligence-loop",
     "metadata"
@@ -454,6 +461,7 @@
   "metadata": [
     "ai-evaluation",
     "ai-native-organizations",
+    "data-governance",
     "data-management",
     "data-quality",
     "intelligence-loop"
