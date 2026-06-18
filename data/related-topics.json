@@ -57,6 +57,7 @@
     "transformers"
   ],
   "data-governance": [
+    "data-catalog",
     "data-management",
     "data-quality",
     "metadata"
@@ -115,6 +116,7 @@
     "vector-database"
   ],
   "data-quality": [
+    "data-catalog",
     "data-governance",
     "data-management",
     "metadata"
@@ -140,6 +142,12 @@
     "tokens",
     "tool-calling",
     "vector-database"
+  ],
+  "data-catalog": [
+    "data-governance",
+    "data-management",
+    "data-quality",
+    "metadata"
   ],
   "rag": [
     "ai-agents",
@@ -314,6 +322,7 @@
   "data-management": [
     "ai-evaluation",
     "ai-native-organizations",
+    "data-catalog",
     "data-governance",
     "data-quality",
     "intelligence-loop",
@@ -461,6 +470,7 @@
   "metadata": [
     "ai-evaluation",
     "ai-native-organizations",
+    "data-catalog",
     "data-governance",
     "data-management",
     "data-quality",
