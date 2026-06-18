@@ -109,6 +109,10 @@
     "transformers",
     "vector-database"
   ],
+  "data-quality": [
+    "data-management",
+    "metadata"
+  ],
   "transformers": [
     "ai-agents",
     "ai-and-jobs",
@@ -304,6 +308,7 @@
   "data-management": [
     "ai-evaluation",
     "ai-native-organizations",
+    "data-quality",
     "intelligence-loop",
     "metadata"
   ],
@@ -450,6 +455,7 @@
     "ai-evaluation",
     "ai-native-organizations",
     "data-management",
+    "data-quality",
     "intelligence-loop"
   ],
   "context-window": [
