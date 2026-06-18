@@ -185,6 +185,7 @@
     "attention",
     "chatgpt",
     "context-window",
+    "data-management",
     "foundation-models",
     "generative-ai",
     "llm",
@@ -299,6 +300,11 @@
     "prompt-engineering",
     "rag"
   ],
+  "data-management": [
+    "ai-evaluation",
+    "ai-native-organizations",
+    "intelligence-loop"
+  ],
   "semantic-search": [
     "ai-agents",
     "ai-evaluation",
@@ -323,6 +329,7 @@
     "ai-native-organizations",
     "artificial-intelligence",
     "data",
+    "data-management",
     "data-science",
     "information",
     "intelligence",
@@ -460,6 +467,7 @@
     "ai-agents",
     "ai-and-jobs",
     "artificial-intelligence",
+    "data-management",
     "intelligence-loop",
     "mcp",
     "multi-agent-systems",

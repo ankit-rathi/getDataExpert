@@ -1,5 +1,22 @@
 [
   {
+    "title": "What is Data Management?",
+    "category": "Data Management",
+    "tags": [
+      "data-management",
+      "metadata",
+      "data-quality",
+      "data-governance",
+      "data-engineering",
+      "data-platforms",
+      "trust",
+      "intelligence-loop"
+    ],
+    "summary": "Understanding how organizations organize, govern, and maintain data so people, analytics, and AI systems can trust and use it effectively.",
+    "date": "2026-06-18",
+    "url": "/sketch-intelligence/topics/data-management/"
+  },
+  {
     "title": "What are Multi-Agent Systems?",
     "category": "GenAI",
     "tags": [
