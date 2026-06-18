@@ -189,6 +189,7 @@
     "foundation-models",
     "generative-ai",
     "llm",
+    "metadata",
     "prompt-engineering",
     "rag",
     "semantic-search",
@@ -303,7 +304,8 @@
   "data-management": [
     "ai-evaluation",
     "ai-native-organizations",
-    "intelligence-loop"
+    "intelligence-loop",
+    "metadata"
   ],
   "semantic-search": [
     "ai-agents",
@@ -335,6 +337,7 @@
     "intelligence",
     "machine-learning",
     "mcp",
+    "metadata",
     "multi-agent-systems",
     "tool-calling"
   ],
@@ -443,6 +446,12 @@
     "transformers",
     "vector-database"
   ],
+  "metadata": [
+    "ai-evaluation",
+    "ai-native-organizations",
+    "data-management",
+    "intelligence-loop"
+  ],
   "context-window": [
     "ai-agents",
     "ai-evaluation",
@@ -470,6 +479,7 @@
     "data-management",
     "intelligence-loop",
     "mcp",
+    "metadata",
     "multi-agent-systems",
     "tool-calling"
   ],
