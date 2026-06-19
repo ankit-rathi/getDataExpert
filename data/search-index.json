@@ -68,6 +68,23 @@
     "url": "/sketch-intelligence/topics/data-management/"
   },
   {
+    "title": "What is Data Lineage?",
+    "category": "Data Management",
+    "tags": [
+      "data-lineage",
+      "metadata",
+      "data-catalog",
+      "data-observability",
+      "data-trust",
+      "impact-analysis",
+      "root-cause-analysis",
+      "intelligent-enterprise"
+    ],
+    "summary": "Understanding how Data Lineage tracks the journey of data across systems, transformations, and business processes to provide transparency, trust, impact analysis, and reliable decision-making.",
+    "date": "2026-06-18",
+    "url": "/sketch-intelligence/topics/data-lineage/"
+  },
+  {
     "title": "What is Metadata?",
     "category": "Data Management",
     "tags": [

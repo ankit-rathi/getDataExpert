@@ -58,6 +58,7 @@
   ],
   "data-governance": [
     "data-catalog",
+    "data-lineage",
     "data-management",
     "data-quality",
     "metadata"
@@ -118,6 +119,7 @@
   "data-quality": [
     "data-catalog",
     "data-governance",
+    "data-lineage",
     "data-management",
     "metadata"
   ],
@@ -145,6 +147,7 @@
   ],
   "data-catalog": [
     "data-governance",
+    "data-lineage",
     "data-management",
     "data-quality",
     "metadata"
@@ -324,6 +327,7 @@
     "ai-native-organizations",
     "data-catalog",
     "data-governance",
+    "data-lineage",
     "data-quality",
     "intelligence-loop",
     "metadata"
@@ -422,6 +426,13 @@
     "transformers",
     "vector-database"
   ],
+  "data-lineage": [
+    "data-catalog",
+    "data-governance",
+    "data-management",
+    "data-quality",
+    "metadata"
+  ],
   "attention": [
     "ai-agents",
     "ai-evaluation",
@@ -472,6 +483,7 @@
     "ai-native-organizations",
     "data-catalog",
     "data-governance",
+    "data-lineage",
     "data-management",
     "data-quality",
     "intelligence-loop"
