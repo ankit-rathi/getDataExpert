@@ -36,6 +36,7 @@
     "data-lineage",
     "data-management",
     "data-quality",
+    "data-trust",
     "metadata"
   ],
   "mcp": [
@@ -70,6 +71,7 @@
     "data-management",
     "data-observability",
     "data-quality",
+    "data-trust",
     "metadata"
   ],
   "vector-database": [
@@ -131,6 +133,7 @@
     "data-lineage",
     "data-management",
     "data-observability",
+    "data-trust",
     "metadata"
   ],
   "transformers": [
@@ -161,6 +164,7 @@
     "data-management",
     "data-observability",
     "data-quality",
+    "data-trust",
     "metadata"
   ],
   "rag": [
@@ -185,6 +189,15 @@
     "tool-calling",
     "transformers",
     "vector-database"
+  ],
+  "data-trust": [
+    "data-catalog",
+    "data-governance",
+    "data-lineage",
+    "data-management",
+    "data-observability",
+    "data-quality",
+    "metadata"
   ],
   "tool-calling": [
     "ai-agents",
@@ -341,6 +354,7 @@
     "data-lineage",
     "data-observability",
     "data-quality",
+    "data-trust",
     "intelligence-loop",
     "metadata"
   ],
@@ -444,6 +458,7 @@
     "data-management",
     "data-observability",
     "data-quality",
+    "data-trust",
     "metadata"
   ],
   "attention": [
@@ -500,6 +515,7 @@
     "data-management",
     "data-observability",
     "data-quality",
+    "data-trust",
     "intelligence-loop"
   ],
   "context-window": [

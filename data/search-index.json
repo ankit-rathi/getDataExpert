@@ -68,6 +68,23 @@
     "url": "/sketch-intelligence/topics/data-catalog/"
   },
   {
+    "title": "What is Data Trust?",
+    "category": "Data Management",
+    "tags": [
+      "data-trust",
+      "data-quality",
+      "data-governance",
+      "data-catalog",
+      "data-lineage",
+      "data-observability",
+      "ai-readiness",
+      "intelligent-enterprise"
+    ],
+    "summary": "Understanding how organizations build confidence in data through quality, governance, cataloging, lineage, and observability, enabling trusted decisions, analytics, and AI adoption.",
+    "date": "2026-06-18",
+    "url": "/sketch-intelligence/topics/data-trust/"
+  },
+  {
     "title": "What is Data Management?",
     "category": "Data Management",
     "tags": [
