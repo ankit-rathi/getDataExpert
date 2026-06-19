@@ -30,6 +30,14 @@
     "transformers",
     "vector-database"
   ],
+  "data-observability": [
+    "data-catalog",
+    "data-governance",
+    "data-lineage",
+    "data-management",
+    "data-quality",
+    "metadata"
+  ],
   "mcp": [
     "ai-agents",
     "ai-and-jobs",
@@ -60,6 +68,7 @@
     "data-catalog",
     "data-lineage",
     "data-management",
+    "data-observability",
     "data-quality",
     "metadata"
   ],
@@ -121,6 +130,7 @@
     "data-governance",
     "data-lineage",
     "data-management",
+    "data-observability",
     "metadata"
   ],
   "transformers": [
@@ -149,6 +159,7 @@
     "data-governance",
     "data-lineage",
     "data-management",
+    "data-observability",
     "data-quality",
     "metadata"
   ],
@@ -328,6 +339,7 @@
     "data-catalog",
     "data-governance",
     "data-lineage",
+    "data-observability",
     "data-quality",
     "intelligence-loop",
     "metadata"
@@ -430,6 +442,7 @@
     "data-catalog",
     "data-governance",
     "data-management",
+    "data-observability",
     "data-quality",
     "metadata"
   ],
@@ -485,6 +498,7 @@
     "data-governance",
     "data-lineage",
     "data-management",
+    "data-observability",
     "data-quality",
     "intelligence-loop"
   ],

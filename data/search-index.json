@@ -1,5 +1,22 @@
 [
   {
+    "title": "What is Data Observability?",
+    "category": "Data Management",
+    "tags": [
+      "data-observability",
+      "data-lineage",
+      "data-quality",
+      "anomaly-detection",
+      "data-reliability",
+      "data-trust",
+      "ai-readiness",
+      "intelligent-enterprise"
+    ],
+    "summary": "Understanding how Data Observability continuously monitors the health, freshness, quality, and reliability of data pipelines and datasets to detect issues early and ensure trusted analytics and AI.",
+    "date": "2026-06-18",
+    "url": "/sketch-intelligence/topics/data-observability/"
+  },
+  {
     "title": "What is Data Governance?",
     "category": "Data Management",
     "tags": [
