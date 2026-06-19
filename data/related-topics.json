@@ -15,7 +15,8 @@
     "data-lineage",
     "data-observability",
     "data-quality",
-    "data-trust"
+    "data-trust",
+    "responsible-ai"
   ],
   "llm": [
     "ai-agents",
@@ -48,7 +49,8 @@
     "data-management",
     "data-quality",
     "data-trust",
-    "metadata"
+    "metadata",
+    "responsible-ai"
   ],
   "mcp": [
     "ai-agents",
@@ -83,7 +85,8 @@
     "data-lineage",
     "data-observability",
     "data-quality",
-    "data-trust"
+    "data-trust",
+    "responsible-ai"
   ],
   "data-governance": [
     "ai-governance",
@@ -94,7 +97,8 @@
     "data-observability",
     "data-quality",
     "data-trust",
-    "metadata"
+    "metadata",
+    "responsible-ai"
   ],
   "vector-database": [
     "ai-agents",
@@ -158,7 +162,8 @@
     "data-management",
     "data-observability",
     "data-trust",
-    "metadata"
+    "metadata",
+    "responsible-ai"
   ],
   "transformers": [
     "ai-agents",
@@ -191,7 +196,8 @@
     "data-observability",
     "data-quality",
     "data-trust",
-    "metadata"
+    "metadata",
+    "responsible-ai"
   ],
   "rag": [
     "ai-agents",
@@ -225,7 +231,8 @@
     "data-management",
     "data-observability",
     "data-quality",
-    "metadata"
+    "metadata",
+    "responsible-ai"
   ],
   "tool-calling": [
     "ai-agents",
@@ -480,6 +487,16 @@
     "transformers",
     "vector-database"
   ],
+  "responsible-ai": [
+    "ai-governance",
+    "ai-readiness",
+    "data-catalog",
+    "data-governance",
+    "data-lineage",
+    "data-observability",
+    "data-quality",
+    "data-trust"
+  ],
   "data-lineage": [
     "ai-governance",
     "ai-readiness",
@@ -489,7 +506,8 @@
     "data-observability",
     "data-quality",
     "data-trust",
-    "metadata"
+    "metadata",
+    "responsible-ai"
   ],
   "attention": [
     "ai-agents",

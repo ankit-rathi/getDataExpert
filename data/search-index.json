@@ -136,6 +136,23 @@
     "url": "/sketch-intelligence/topics/data-management/"
   },
   {
+    "title": "What is Responsible AI?",
+    "category": "Data & AI",
+    "tags": [
+      "responsible-ai",
+      "ai-governance",
+      "ai-ethics",
+      "ai-fairness",
+      "ai-transparency",
+      "ai-trust",
+      "ai-native-organization",
+      "intelligent-enterprise"
+    ],
+    "summary": "Understanding how organizations design, develop, and deploy AI systems that are fair, transparent, accountable, secure, and aligned with human values to build trustworthy AI at scale.",
+    "date": "2026-06-18",
+    "url": "/sketch-intelligence/topics/responsible-ai/"
+  },
+  {
     "title": "What is Data Lineage?",
     "category": "Data Management",
     "tags": [
