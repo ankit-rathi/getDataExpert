@@ -8,6 +8,15 @@
     "mcp",
     "tool-calling"
   ],
+  "ai-governance": [
+    "ai-readiness",
+    "data-catalog",
+    "data-governance",
+    "data-lineage",
+    "data-observability",
+    "data-quality",
+    "data-trust"
+  ],
   "llm": [
     "ai-agents",
     "ai-and-jobs",
@@ -31,6 +40,7 @@
     "vector-database"
   ],
   "data-observability": [
+    "ai-governance",
     "ai-readiness",
     "data-catalog",
     "data-governance",
@@ -67,6 +77,7 @@
     "transformers"
   ],
   "ai-readiness": [
+    "ai-governance",
     "data-catalog",
     "data-governance",
     "data-lineage",
@@ -75,6 +86,7 @@
     "data-trust"
   ],
   "data-governance": [
+    "ai-governance",
     "ai-readiness",
     "data-catalog",
     "data-lineage",
@@ -138,6 +150,7 @@
     "vector-database"
   ],
   "data-quality": [
+    "ai-governance",
     "ai-readiness",
     "data-catalog",
     "data-governance",
@@ -170,6 +183,7 @@
     "vector-database"
   ],
   "data-catalog": [
+    "ai-governance",
     "ai-readiness",
     "data-governance",
     "data-lineage",
@@ -203,6 +217,7 @@
     "vector-database"
   ],
   "data-trust": [
+    "ai-governance",
     "ai-readiness",
     "data-catalog",
     "data-governance",
@@ -466,6 +481,7 @@
     "vector-database"
   ],
   "data-lineage": [
+    "ai-governance",
     "ai-readiness",
     "data-catalog",
     "data-governance",
