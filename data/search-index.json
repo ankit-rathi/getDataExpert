@@ -17,6 +17,23 @@
     "url": "/sketch-intelligence/topics/data-observability/"
   },
   {
+    "title": "What is AI Readiness?",
+    "category": "Data & AI",
+    "tags": [
+      "ai-readiness",
+      "data-trust",
+      "ai-governance",
+      "ai-literacy",
+      "responsible-ai",
+      "ai-adoption",
+      "ai-native-organization",
+      "intelligent-enterprise"
+    ],
+    "summary": "Understanding how organizations prepare their data, people, processes, governance, and operating models to successfully adopt, scale, and realize value from AI.",
+    "date": "2026-06-18",
+    "url": "/sketch-intelligence/topics/ai-readiness/"
+  },
+  {
     "title": "What is Data Governance?",
     "category": "Data Management",
     "tags": [
