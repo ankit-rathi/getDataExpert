@@ -117,7 +117,22 @@
     "generative-ai",
     "information",
     "machine-learning",
+    "metrics",
     "neural-networks"
+  ],
+  "metrics": [
+    "analytics",
+    "artificial-intelligence",
+    "data",
+    "data-engineering",
+    "data-lake",
+    "data-lakehouse",
+    "data-science",
+    "data-warehouse",
+    "information",
+    "intelligence",
+    "intelligence-loop",
+    "structured-vs-unstructured"
   ],
   "data-governance": [
     "ai-governance",
@@ -292,6 +307,7 @@
     "data-warehouse",
     "etl-vs-elt",
     "information",
+    "metrics",
     "structured-vs-unstructured"
   ],
   "tool-calling": [
@@ -372,6 +388,7 @@
     "intelligence",
     "intelligence-loop",
     "machine-learning",
+    "metrics",
     "structured-vs-unstructured"
   ],
   "data-lakehouse": [
@@ -393,6 +410,7 @@
     "information",
     "machine-learning",
     "metadata",
+    "metrics",
     "neural-networks",
     "structured-vs-unstructured"
   ],
@@ -478,6 +496,7 @@
     "intelligence",
     "intelligence-loop",
     "machine-learning",
+    "metrics",
     "neural-networks",
     "prompt-engineering",
     "rag",
@@ -535,6 +554,7 @@
     "machine-learning",
     "mcp",
     "metadata",
+    "metrics",
     "multi-agent-systems",
     "tool-calling"
   ],
@@ -553,6 +573,7 @@
     "intelligence",
     "intelligence-loop",
     "machine-learning",
+    "metrics",
     "neural-networks",
     "structured-vs-unstructured"
   ],
@@ -573,6 +594,7 @@
     "intelligence-loop",
     "machine-learning",
     "mcp",
+    "metrics",
     "multi-agent-systems",
     "neural-networks",
     "prompt-engineering",
@@ -708,6 +730,7 @@
     "information",
     "machine-learning",
     "metadata",
+    "metrics",
     "neural-networks",
     "structured-vs-unstructured"
   ],
@@ -771,6 +794,7 @@
     "information",
     "intelligence",
     "intelligence-loop",
+    "metrics",
     "structured-vs-unstructured"
   ],
   "data-science": [
@@ -787,6 +811,7 @@
     "intelligence",
     "intelligence-loop",
     "machine-learning",
+    "metrics",
     "neural-networks",
     "structured-vs-unstructured"
   ],
@@ -843,6 +868,7 @@
     "data-warehouse",
     "information",
     "intelligence-loop",
-    "machine-learning"
+    "machine-learning",
+    "metrics"
   ]
 }

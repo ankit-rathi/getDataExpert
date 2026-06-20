@@ -34,6 +34,23 @@
     "url": "/sketch-intelligence/topics/structured-vs-unstructured/"
   },
   {
+    "title": "What are Metrics?",
+    "category": "Data & AI",
+    "tags": [
+      "metrics",
+      "kpis",
+      "analytics",
+      "dashboards",
+      "business-intelligence",
+      "decision-making",
+      "data-visualization",
+      "performance-management"
+    ],
+    "summary": "Understanding how metrics transform raw data into measurable indicators of performance, helping organizations track progress, evaluate outcomes, and make data-driven decisions.",
+    "date": "2026-06-20",
+    "url": "/sketch-intelligence/topics/metrics/"
+  },
+  {
     "title": "What are Databases?",
     "category": "Data Engineering",
     "tags": [
