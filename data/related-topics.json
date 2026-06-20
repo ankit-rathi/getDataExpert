@@ -77,6 +77,7 @@
     "neural-networks",
     "prompt-engineering",
     "rag",
+    "structured-vs-unstructured",
     "tokens",
     "transformers"
   ],
@@ -89,6 +90,22 @@
     "data-quality",
     "data-trust",
     "responsible-ai"
+  ],
+  "structured-vs-unstructured": [
+    "artificial-intelligence",
+    "data",
+    "data-engineering",
+    "data-lake",
+    "data-lakehouse",
+    "data-management",
+    "data-science",
+    "data-warehouse",
+    "databases",
+    "deep-learning",
+    "generative-ai",
+    "information",
+    "machine-learning",
+    "neural-networks"
   ],
   "data-governance": [
     "ai-governance",
@@ -107,7 +124,8 @@
   "databases": [
     "data-management",
     "data-warehouse",
-    "metadata"
+    "metadata",
+    "structured-vs-unstructured"
   ],
   "vector-database": [
     "ai-agents",
@@ -143,6 +161,7 @@
     "machine-learning",
     "prompt-engineering",
     "rag",
+    "structured-vs-unstructured",
     "tokens",
     "transformers"
   ],
@@ -257,7 +276,8 @@
     "data-management",
     "data-science",
     "data-warehouse",
-    "information"
+    "information",
+    "structured-vs-unstructured"
   ],
   "tool-calling": [
     "ai-agents",
@@ -321,6 +341,7 @@
     "neural-networks",
     "prompt-engineering",
     "rag",
+    "structured-vs-unstructured",
     "transformers"
   ],
   "information": [
@@ -333,7 +354,8 @@
     "data-warehouse",
     "intelligence",
     "intelligence-loop",
-    "machine-learning"
+    "machine-learning",
+    "structured-vs-unstructured"
   ],
   "data-lakehouse": [
     "artificial-intelligence",
@@ -352,7 +374,8 @@
     "information",
     "machine-learning",
     "metadata",
-    "neural-networks"
+    "neural-networks",
+    "structured-vs-unstructured"
   ],
   "ai-and-jobs": [
     "ai-agents",
@@ -393,6 +416,7 @@
     "prompt-engineering",
     "rag",
     "semantic-search",
+    "structured-vs-unstructured",
     "tokens",
     "tool-calling",
     "transformers",
@@ -435,7 +459,8 @@
     "machine-learning",
     "neural-networks",
     "prompt-engineering",
-    "rag"
+    "rag",
+    "structured-vs-unstructured"
   ],
   "data-management": [
     "ai-evaluation",
@@ -452,7 +477,8 @@
     "data-warehouse",
     "databases",
     "intelligence-loop",
-    "metadata"
+    "metadata",
+    "structured-vs-unstructured"
   ],
   "semantic-search": [
     "ai-agents",
@@ -509,6 +535,7 @@
     "neural-networks",
     "prompt-engineering",
     "rag",
+    "structured-vs-unstructured",
     "tool-calling"
   ],
   "tokens": [
@@ -637,7 +664,8 @@
     "information",
     "machine-learning",
     "metadata",
-    "neural-networks"
+    "neural-networks",
+    "structured-vs-unstructured"
   ],
   "metadata": [
     "ai-evaluation",
@@ -696,7 +724,8 @@
     "databases",
     "information",
     "intelligence",
-    "intelligence-loop"
+    "intelligence-loop",
+    "structured-vs-unstructured"
   ],
   "data-science": [
     "artificial-intelligence",
@@ -711,7 +740,8 @@
     "intelligence",
     "intelligence-loop",
     "machine-learning",
-    "neural-networks"
+    "neural-networks",
+    "structured-vs-unstructured"
   ],
   "chatgpt": [
     "ai-agents",
