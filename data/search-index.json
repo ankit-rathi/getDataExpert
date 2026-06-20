@@ -85,6 +85,23 @@
     "url": "/sketch-intelligence/topics/data-lakehouse/"
   },
   {
+    "title": "What is Analytics?",
+    "category": "Data & AI",
+    "tags": [
+      "analytics",
+      "business-intelligence",
+      "data-visualization",
+      "decision-making",
+      "data-warehouse",
+      "dashboards",
+      "data-driven-culture",
+      "machine-learning"
+    ],
+    "summary": "Understanding how analytics transforms raw data into insights, enabling organizations to discover patterns, make better decisions, optimize performance, and create business value.",
+    "date": "2026-06-20",
+    "url": "/sketch-intelligence/topics/analytics/"
+  },
+  {
     "title": "What is a Data Lake?",
     "category": "Data Engineering",
     "tags": [

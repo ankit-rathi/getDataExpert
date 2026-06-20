@@ -1,5 +1,6 @@
 {
   "etl-vs-elt": [
+    "analytics",
     "data-engineering",
     "data-lake",
     "data-lakehouse",
@@ -70,6 +71,7 @@
     "tool-calling"
   ],
   "deep-learning": [
+    "analytics",
     "artificial-intelligence",
     "attention",
     "chatgpt",
@@ -100,6 +102,7 @@
     "responsible-ai"
   ],
   "structured-vs-unstructured": [
+    "analytics",
     "artificial-intelligence",
     "data",
     "data-engineering",
@@ -155,6 +158,7 @@
     "transformers"
   ],
   "neural-networks": [
+    "analytics",
     "artificial-intelligence",
     "attention",
     "chatgpt",
@@ -279,6 +283,7 @@
     "responsible-ai"
   ],
   "data-engineering": [
+    "analytics",
     "data",
     "data-lake",
     "data-lakehouse",
@@ -335,6 +340,7 @@
   ],
   "machine-learning": [
     "ai-hallucinations",
+    "analytics",
     "artificial-intelligence",
     "attention",
     "data",
@@ -355,6 +361,7 @@
     "transformers"
   ],
   "information": [
+    "analytics",
     "artificial-intelligence",
     "data",
     "data-engineering",
@@ -368,6 +375,7 @@
     "structured-vs-unstructured"
   ],
   "data-lakehouse": [
+    "analytics",
     "artificial-intelligence",
     "data",
     "data-catalog",
@@ -411,6 +419,7 @@
     "ai-evaluation",
     "ai-hallucinations",
     "ai-memory",
+    "analytics",
     "artificial-intelligence",
     "attention",
     "chatgpt",
@@ -456,6 +465,7 @@
     "vector-database"
   ],
   "data": [
+    "analytics",
     "artificial-intelligence",
     "data-engineering",
     "data-lake",
@@ -514,6 +524,7 @@
     "ai-agents",
     "ai-and-jobs",
     "ai-native-organizations",
+    "analytics",
     "artificial-intelligence",
     "data",
     "data-management",
@@ -527,10 +538,29 @@
     "multi-agent-systems",
     "tool-calling"
   ],
+  "analytics": [
+    "artificial-intelligence",
+    "data",
+    "data-engineering",
+    "data-lake",
+    "data-lakehouse",
+    "data-science",
+    "data-warehouse",
+    "deep-learning",
+    "etl-vs-elt",
+    "generative-ai",
+    "information",
+    "intelligence",
+    "intelligence-loop",
+    "machine-learning",
+    "neural-networks",
+    "structured-vs-unstructured"
+  ],
   "artificial-intelligence": [
     "ai-agents",
     "ai-and-jobs",
     "ai-native-organizations",
+    "analytics",
     "data",
     "data-lake",
     "data-lakehouse",
@@ -660,6 +690,7 @@
     "vector-database"
   ],
   "data-lake": [
+    "analytics",
     "artificial-intelligence",
     "data",
     "data-catalog",
@@ -727,6 +758,7 @@
     "tool-calling"
   ],
   "data-warehouse": [
+    "analytics",
     "artificial-intelligence",
     "data",
     "data-engineering",
@@ -742,6 +774,7 @@
     "structured-vs-unstructured"
   ],
   "data-science": [
+    "analytics",
     "artificial-intelligence",
     "data",
     "data-engineering",
@@ -803,6 +836,7 @@
     "vector-database"
   ],
   "intelligence": [
+    "analytics",
     "artificial-intelligence",
     "data",
     "data-science",
