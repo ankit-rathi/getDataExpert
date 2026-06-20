@@ -17,6 +17,23 @@
     "url": "/sketch-intelligence/topics/databases/"
   },
   {
+    "title": "What is a Data Lakehouse?",
+    "category": "Data Engineering",
+    "tags": [
+      "data-lakehouse",
+      "data-lake",
+      "data-warehouse",
+      "analytics",
+      "data-engineering",
+      "machine-learning",
+      "data-governance",
+      "unified-data-platform"
+    ],
+    "summary": "Understanding how a data lakehouse combines the scalability of data lakes with the reliability and analytics capabilities of data warehouses in a unified data platform.",
+    "date": "2026-06-20",
+    "url": "/sketch-intelligence/topics/data-lakehouse/"
+  },
+  {
     "title": "What is a Data Lake?",
     "category": "Data Engineering",
     "tags": [
