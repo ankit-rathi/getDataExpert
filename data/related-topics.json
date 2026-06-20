@@ -250,6 +250,15 @@
     "metadata",
     "responsible-ai"
   ],
+  "data-engineering": [
+    "data",
+    "data-lake",
+    "data-lakehouse",
+    "data-management",
+    "data-science",
+    "data-warehouse",
+    "information"
+  ],
   "tool-calling": [
     "ai-agents",
     "ai-and-jobs",
@@ -317,6 +326,7 @@
   "information": [
     "artificial-intelligence",
     "data",
+    "data-engineering",
     "data-lake",
     "data-lakehouse",
     "data-science",
@@ -329,6 +339,7 @@
     "artificial-intelligence",
     "data",
     "data-catalog",
+    "data-engineering",
     "data-governance",
     "data-lake",
     "data-management",
@@ -411,6 +422,7 @@
   ],
   "data": [
     "artificial-intelligence",
+    "data-engineering",
     "data-lake",
     "data-lakehouse",
     "data-science",
@@ -429,6 +441,7 @@
     "ai-evaluation",
     "ai-native-organizations",
     "data-catalog",
+    "data-engineering",
     "data-governance",
     "data-lake",
     "data-lakehouse",
@@ -611,6 +624,7 @@
     "artificial-intelligence",
     "data",
     "data-catalog",
+    "data-engineering",
     "data-governance",
     "data-lakehouse",
     "data-lineage",
@@ -674,6 +688,7 @@
   "data-warehouse": [
     "artificial-intelligence",
     "data",
+    "data-engineering",
     "data-lake",
     "data-lakehouse",
     "data-management",
@@ -686,6 +701,7 @@
   "data-science": [
     "artificial-intelligence",
     "data",
+    "data-engineering",
     "data-lake",
     "data-lakehouse",
     "data-warehouse",

@@ -17,6 +17,23 @@
     "url": "/sketch-intelligence/topics/databases/"
   },
   {
+    "title": "What is Data Engineering?",
+    "category": "Data Engineering",
+    "tags": [
+      "data-engineering",
+      "data-pipelines",
+      "etl",
+      "data-integration",
+      "data-warehouse",
+      "data-lake",
+      "analytics",
+      "data-platforms"
+    ],
+    "summary": "Understanding how data engineering collects, moves, transforms, and delivers reliable data to power analytics, AI systems, dashboards, and modern data platforms.",
+    "date": "2026-06-20",
+    "url": "/sketch-intelligence/topics/data-engineering/"
+  },
+  {
     "title": "What is a Data Lakehouse?",
     "category": "Data Engineering",
     "tags": [
