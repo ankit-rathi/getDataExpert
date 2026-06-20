@@ -102,6 +102,7 @@
   ],
   "databases": [
     "data-management",
+    "data-warehouse",
     "metadata"
   ],
   "vector-database": [
@@ -304,6 +305,7 @@
     "artificial-intelligence",
     "data",
     "data-science",
+    "data-warehouse",
     "intelligence",
     "intelligence-loop",
     "machine-learning"
@@ -375,6 +377,7 @@
   "data": [
     "artificial-intelligence",
     "data-science",
+    "data-warehouse",
     "deep-learning",
     "generative-ai",
     "information",
@@ -394,6 +397,7 @@
     "data-observability",
     "data-quality",
     "data-trust",
+    "data-warehouse",
     "databases",
     "intelligence-loop",
     "metadata"
@@ -424,6 +428,7 @@
     "data",
     "data-management",
     "data-science",
+    "data-warehouse",
     "information",
     "intelligence",
     "machine-learning",
@@ -438,6 +443,7 @@
     "ai-native-organizations",
     "data",
     "data-science",
+    "data-warehouse",
     "deep-learning",
     "generative-ai",
     "information",
@@ -603,9 +609,20 @@
     "multi-agent-systems",
     "tool-calling"
   ],
+  "data-warehouse": [
+    "artificial-intelligence",
+    "data",
+    "data-management",
+    "data-science",
+    "databases",
+    "information",
+    "intelligence",
+    "intelligence-loop"
+  ],
   "data-science": [
     "artificial-intelligence",
     "data",
+    "data-warehouse",
     "deep-learning",
     "generative-ai",
     "information",
@@ -663,6 +680,7 @@
     "artificial-intelligence",
     "data",
     "data-science",
+    "data-warehouse",
     "information",
     "intelligence-loop",
     "machine-learning"
