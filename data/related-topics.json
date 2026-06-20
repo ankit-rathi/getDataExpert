@@ -100,6 +100,10 @@
     "metadata",
     "responsible-ai"
   ],
+  "databases": [
+    "data-management",
+    "metadata"
+  ],
   "vector-database": [
     "ai-agents",
     "ai-evaluation",
@@ -390,6 +394,7 @@
     "data-observability",
     "data-quality",
     "data-trust",
+    "databases",
     "intelligence-loop",
     "metadata"
   ],
@@ -564,6 +569,7 @@
     "data-observability",
     "data-quality",
     "data-trust",
+    "databases",
     "intelligence-loop"
   ],
   "context-window": [
