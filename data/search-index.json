@@ -1,5 +1,22 @@
 [
   {
+    "title": "ETL vs ELT",
+    "category": "Data Engineering",
+    "tags": [
+      "etl",
+      "elt",
+      "data-pipelines",
+      "data-engineering",
+      "data-warehouse",
+      "data-lake",
+      "data-transformation",
+      "modern-data-stack"
+    ],
+    "summary": "Understanding the difference between ETL and ELT, when data transformation occurs in each approach, and why modern data platforms increasingly favor ELT for analytics, AI, and large-scale data processing.",
+    "date": "2026-06-20",
+    "url": "/sketch-intelligence/topics/etl-vs-elt/"
+  },
+  {
     "title": "Structured vs Unstructured Data",
     "category": "Data Engineering",
     "tags": [

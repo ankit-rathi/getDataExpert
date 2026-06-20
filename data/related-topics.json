@@ -1,4 +1,12 @@
 {
+  "etl-vs-elt": [
+    "data-engineering",
+    "data-lake",
+    "data-lakehouse",
+    "data-management",
+    "data-warehouse",
+    "structured-vs-unstructured"
+  ],
   "multi-agent-systems": [
     "ai-agents",
     "ai-and-jobs",
@@ -102,6 +110,7 @@
     "data-warehouse",
     "databases",
     "deep-learning",
+    "etl-vs-elt",
     "generative-ai",
     "information",
     "machine-learning",
@@ -276,6 +285,7 @@
     "data-management",
     "data-science",
     "data-warehouse",
+    "etl-vs-elt",
     "information",
     "structured-vs-unstructured"
   ],
@@ -370,6 +380,7 @@
     "data-trust",
     "data-warehouse",
     "deep-learning",
+    "etl-vs-elt",
     "generative-ai",
     "information",
     "machine-learning",
@@ -476,6 +487,7 @@
     "data-trust",
     "data-warehouse",
     "databases",
+    "etl-vs-elt",
     "intelligence-loop",
     "metadata",
     "structured-vs-unstructured"
@@ -660,6 +672,7 @@
     "data-science",
     "data-warehouse",
     "deep-learning",
+    "etl-vs-elt",
     "generative-ai",
     "information",
     "machine-learning",
@@ -722,6 +735,7 @@
     "data-management",
     "data-science",
     "databases",
+    "etl-vs-elt",
     "information",
     "intelligence",
     "intelligence-loop",
