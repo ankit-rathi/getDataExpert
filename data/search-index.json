@@ -17,6 +17,23 @@
     "url": "/sketch-intelligence/topics/databases/"
   },
   {
+    "title": "What is a Data Lake?",
+    "category": "Data Engineering",
+    "tags": [
+      "data-lake",
+      "big-data",
+      "data-ingestion",
+      "unstructured-data",
+      "data-engineering",
+      "machine-learning",
+      "analytics",
+      "metadata"
+    ],
+    "summary": "Understanding how data lakes store massive amounts of raw structured and unstructured data, enabling analytics, machine learning, exploration, and future use cases at scale.",
+    "date": "2026-06-20",
+    "url": "/sketch-intelligence/topics/data-lake/"
+  },
+  {
     "title": "What is a Data Warehouse?",
     "category": "Data Engineering",
     "tags": [
